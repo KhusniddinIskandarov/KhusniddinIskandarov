@@ -5,7 +5,7 @@
 
 | 🌐 Connect | 🛠️ Featured Projects |
 |-----------|--------------------|
-| - 🌎 [Portfolio](https://yourportfolio.com)<br> - 💼 [LinkedIn](https://linkedin.com/in/your-link)<br> - 📧 (<br> - 💬 [Telegram](https://t.me/yourusername) | - 🔗 [Todo App](https://github.com/yourusername/todo-app) — Built with **JavaScript, HTML, CSS**. Features: Add/Edit/Delete Todos, Persistent Storage.<br> - 🔗 [Portfolio](https://github.com/yourusername/portfolio) — Built with **React & TailwindCSS**, responsive and modern design. |
+| - 🌎 [Portfolio](https://yourportfolio.com)<br>- 💼 [LinkedIn](https://linkedin.com/in/your-link)<br>- 📧 [youremail@domain.com]<br>- 💬 [Telegram](https://t.me/yourusername) | - 🔗 [Todo App](https://github.com/yourusername/todo-app) — Built with **JavaScript, HTML, CSS**. Features: Add/Edit/Delete Todos, Persistent Storage.<br>- 🔗 [Portfolio](https://github.com/yourusername/portfolio) — Built with **React & TailwindCSS**, responsive and modern design. |
 
 ---
 
@@ -38,4 +38,4 @@ I am a frontend developer passionate about building **interactive and user-frien
 Feel free to reach out for **collaboration or job opportunities**!  
 - 📧 [youremail@domain.com](mailto:youremail@domain.com)  
 - 💬 [Telegram](https://t.me/yourusername)  
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)
+- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
