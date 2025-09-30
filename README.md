@@ -3,15 +3,30 @@
 
 ---
 
-| 🌐 Connect | 🛠️ Featured Projects |
-|------------|---------------------|
-| - 🌎 [Portfolio](https://yourportfolio.com) <br> - 💼 [LinkedIn](https://linkedin.com/in/your-link) <br> - 📧 yourmail@example.com <br> - 💬 [Telegram](https://t.me/yourusername) | - 🔗 [Todo App](https://github.com/yourusername/todo-app) — JS todo app <br> - 🔗 [Portfolio](https://github.com/yourusername/portfolio) — My portfolio site |
+<table width="100%">
+<tr>
+<td align="left" width="48%" valign="top">
 
+## 🌐 Connect
+- 🌎 [Portfolio](https://yourportfolio.com)
+- 💼 [LinkedIn](https://linkedin.com/in/your-link)
+- 📧 yourmail@example.com
+- 💬 [Telegram](https://t.me/yourusername)
 
+</td>
+<td align="right" width="48%" valign="top">
+
+## 🛠️ Featured Projects
+- 🔗 [Todo App](https://github.com/yourusername/todo-app) — JS todo app, CRUD & responsive UI
+- 🔗 [Portfolio](https://github.com/yourusername/portfolio) — Personal portfolio site, fully responsive
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech stack:
+## 🛠️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&gradient=red,orange"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&gradient=blue,cyan"/>
