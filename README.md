@@ -3,26 +3,11 @@
 
 ---
 
-<table width="100%">
-<tr>
-<td align="left" width="48%" valign="top">
+| 🌐 Connect | 🛠️ Featured Projects |
+|------------|---------------------|
+| - 🌎 [Portfolio](https://yourportfolio.com) <br> - 💼 [LinkedIn](https://linkedin.com/in/your-link) <br> - 📧 yourmail@example.com <br> - 💬 [Telegram](https://t.me/yourusername) | - 🔗 [Todo App](https://github.com/yourusername/todo-app) — JS todo app <br> - 🔗 [Portfolio](https://github.com/yourusername/portfolio) — My portfolio site |
 
-## 🌐 Connect
-- 🌎 [Portfolio](https://yourportfolio.com)
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)
-- 📧 yourmail@example.com
-- 💬 [Telegram](https://t.me/yourusername)
 
-</td>
-<td align="right" width="48%" valign="top">
-
-## 🛠️ Featured Projects
-- 🔗 [Todo App](https://github.com/yourusername/todo-app) — JS todo app
-- 🔗 [Portfolio](https://github.com/yourusername/portfolio) — My portfolio site
-
-</td>
-</tr>
-</table>
 
 ---
 
