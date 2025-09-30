@@ -1,37 +1,19 @@
-# 🚀 Passionate about continuous growth, writing clean code, and building real-world projects.  
-🎯 Currently open to opportunities as a **Frontend React Developer**
+## 🌐 Connect & 🌟 Featured Projects
 
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
 
----
+<div style="flex: 0 0 48%; border: 1px solid #ccc; padding: 10px; border-radius: 8px;">
+### 🌐 Connect
+- 🌎 [Portfolio](https://yourportfolio.com)
+- 💼 [LinkedIn](https://linkedin.com/in/your-link)
+- 📧 yourmail@example.com
+- 💬 [Telegram](https://t.me/yourusername)
+</div>
 
-## 🌟 Featured Projects
+<div style="flex: 0 0 48%; border: 1px solid #ccc; padding: 10px; border-radius: 8px;">
+### 🛠️ Featured Projects
+- 🔗 [Todo App](https://github.com/yourusername/todo-app) — Simple todo app built with JS.
+- 🔗 [Portfolio](https://github.com/yourusername/portfolio) — My personal portfolio site.
+</div>
 
-### 1️⃣ Portfolio Website
-🔗 [Live Demo](https://YOUR_GITHUB_PAGES_LINK) | 🗂️ [GitHub Repo](https://github.com/khusniddiniskandarov/portfolio)  
-💡 A personal portfolio website showcasing my projects and skills, fully responsive and modern design.
-
-### 2️⃣ Todo App
-🔗 [Live Demo](https://YOUR_GITHUB_PAGES_LINK) | 🗂️ [GitHub Repo](https://github.com/khusniddiniskandarov/todo-app)  
-💡 Simple Todo application built with JavaScript, showcasing CRUD functionality and responsive UI.
-
----
-
-## 🔧 Tech Stack
-🛠️ Tech stack: HTML, CSS, Sass/SCSS, Bootstrap, JavaScript (ES6+), React, TailwindCSS, Git  
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&gradient=red,orange"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&gradient=blue,cyan"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&gradient=pink,purple"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&gradient=purple,indigo"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&gradient=yellow,orange"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&gradient=cyan,blue"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&gradient=cyan,blue"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&gradient=red,orange"/>
-</p>
-
----
-
-## 📫 Connect with Me
-<p align="center">
-🌐 [Portfolio](https://YOUR_GITHUB_PAGES_LINK) | 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINK) | ✈️ [Telegram](https://t.me/YOUR_USERNAME)
-</p>
+</div>
