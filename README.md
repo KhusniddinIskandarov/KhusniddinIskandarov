@@ -1,9 +1,9 @@
 <span style="background-color:#000000; color:#ffffff; padding:5px 10px; border-radius:5px; font-size:16px;">
-🚀 Passionate about continuous growth, writing clean code, and building real-world projects.
+## 🚀 Passionate about continuous growth, writing clean code, and building real-world projects.
 </span>
 
 <span style="background-color:#000000; color:#ffffff; padding:5px 10px; border-radius:5px; font-size:16px; display:block; margin-top:5px;">
-🎯 Currently open to opportunities as a <b>Frontend React Developer</b>
+## 🎯 Currently open to opportunities as a <b>Frontend React Developer</b>
 </span>
 
 ---
