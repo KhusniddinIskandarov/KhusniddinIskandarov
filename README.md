@@ -34,29 +34,29 @@
 ### 1️⃣ Portfolio Website
 <div align="center">
   <a href="https://YOUR_GITHUB_PAGES_LINK">
-    <img src="https://via.placeholder.com/600x300.png?text=Portfolio+Screenshot" alt="Portfolio Screenshot" style="transition: transform 0.3s; border-radius:15px;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+    <img src="https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif" alt="Portfolio GIF" style="border-radius:15px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 </div>
 - 🔗 [Live Demo](https://YOUR_GITHUB_PAGES_LINK) | 🗂️ [GitHub Repo](https://github.com/khusniddiniskandarov/portfolio)  
-- Features: Responsive, animated UI, interactive sections.
+- Features: Responsive, interactive, animated UI.
 
 ### 2️⃣ Todo App
 <div align="center">
   <a href="https://YOUR_GITHUB_PAGES_LINK">
-    <img src="https://via.placeholder.com/600x300.png?text=Todo+App+Screenshot" alt="Todo Screenshot" style="transition: transform 0.3s; border-radius:15px;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+    <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Todo GIF" style="border-radius:15px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 </div>
 - 🔗 [Live Demo](https://YOUR_GITHUB_PAGES_LINK) | 🗂️ [GitHub Repo](https://github.com/khusniddiniskandarov/todo-app)  
-- Features: Add/Delete tasks, smooth hover effects, localStorage.
+- Features: Add/Delete tasks, localStorage, smooth hover & animations.
 
 ### 3️⃣ Random Quote Generator
 <div align="center">
   <a href="https://YOUR_GITHUB_PAGES_LINK">
-    <img src="https://via.placeholder.com/600x300.png?text=Quote+Generator+Screenshot" alt="Quote Generator Screenshot" style="transition: transform 0.3s; border-radius:15px;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
+    <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Quote Generator GIF" style="border-radius:15px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 </div>
 - 🔗 [Live Demo](https://YOUR_GITHUB_PAGES_LINK) | 🗂️ [GitHub Repo](https://github.com/khusniddiniskandarov/random-quote-generator)  
-- Features: Smooth API integration, animated quote transitions.
+- Features: API integration, smooth quote animations, interactive design.
 
 ---
 
@@ -85,10 +85,10 @@
 
 ---
 
-### 🔹 Features
-- **Gradient & animated tech badges** → eye-catching & modern  
-- **Hover animations on screenshots** → interactive feel  
+### 🔹 Highlights
+- **Mini GIF previews for projects** → interaktiv va jonli  
+- **Hover effects** → screenshotlar kattalashadi hover qilganda  
+- **Gradient badges & animated tech stack** → eye-catching  
 - **Light/Dark theme switch badge** → professional  
-- **GitHub stats & streak** → shows skills & activity  
-- **Fully copy-paste ready & GitHub Pages integrated** → recruiter-ready  
-
+- **GitHub stats & streak** → faoliyat va skill darajasini ko‘rsatadi  
+- **Copy-paste ready, GitHub Pages compatible** → recruiter-ready  
