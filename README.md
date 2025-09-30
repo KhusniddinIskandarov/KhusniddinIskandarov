@@ -3,28 +3,9 @@
 
 ---
 
-<table style="width:100%;">
-  <tr>
-    <!-- Left column: Connect -->
-    <td style="width:48%; vertical-align:top; padding-right:10px;">
-      <strong>🌐 Connect</strong><br>
-      - 🌎 <a href="https://yourportfolio.com">Portfolio</a><br>
-      - 💼 <a href="https://linkedin.com/in/your-link">LinkedIn</a><br>
-      - 📧 <a href="mailto:youremail@domain.com">youremail@domain.com</a><br>
-      - 💬 <a href="https://t.me/yourusername">Telegram</a>
-    </td>
-
-    <!-- Middle: Qalin chiziq -->
-    <td style="width:4%; background-color:black;"></td>
-
-    <!-- Right column: Featured Projects -->
-    <td style="width:48%; vertical-align:top; padding-left:10px;">
-      <strong>🛠️ Featured Projects</strong><br>
-      - 🔗 <a href="https://github.com/yourusername/todo-app">Todo App</a> — Built with <strong>JavaScript, HTML, CSS</strong>. Features: Add/Edit/Delete Todos, Persistent Storage.<br>
-      - 🔗 <a href="https://github.com/yourusername/portfolio">Portfolio</a> — Built with <strong>React & TailwindCSS</strong>, responsive and modern design.
-    </td>
-  </tr>
-</table>
+| 🌐 Connect | 🛠️ Featured Projects |
+|-----------|--------------------|
+| - 🌎 [Portfolio](https://yourportfolio.com)<br>- 💼 [LinkedIn](https://linkedin.com/in/your-link)<br>- 📧 [youremail@domain.com]<br>- 💬 [Telegram](https://t.me/yourusername) | - 🔗 [Todo App](https://github.com/yourusername/todo-app) — Built with **JavaScript, HTML, CSS**. Features: Add/Edit/Delete Todos, Persistent Storage.<br>- 🔗 [Portfolio](https://github.com/yourusername/portfolio) — Built with **React & TailwindCSS**, responsive and modern design. |
 
 ---
 
@@ -57,4 +38,4 @@ I am a frontend developer passionate about building **interactive and user-frien
 Feel free to reach out for **collaboration or job opportunities**!  
 - 📧 [youremail@domain.com](mailto:youremail@domain.com)  
 - 💬 [Telegram](https://t.me/yourusername)  
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)
+- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
