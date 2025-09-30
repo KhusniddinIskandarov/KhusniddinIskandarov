@@ -17,6 +17,7 @@
 ---
 
 ## 🔧 Tech Stack
+🛠️ Tech stack: HTML, CSS, Sass/SCSS, Bootstrap, JavaScript (ES6+), React, TailwindCSS, Git  
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&gradient=red,orange"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&gradient=blue,cyan"/>
