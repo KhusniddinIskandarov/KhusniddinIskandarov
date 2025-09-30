@@ -28,7 +28,3 @@
 
 ---
 
-## 📫 Connect with Me
-<p align="center">
-🌐 [Portfolio](https://YOUR_GITHUB_PAGES_LINK) | 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINK) | ✈️ [Telegram](https://t.me/YOUR_USERNAME)
-</p>
