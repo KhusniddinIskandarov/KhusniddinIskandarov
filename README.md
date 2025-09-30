@@ -1,18 +1,3 @@
-# 👋 Hi, I'm Khusniddin
-
----
-
-## 🌟 Featured Projects
-
-### 1️⃣ Portfolio Website
-🔗 [Live Demo](https://YOUR_GITHUB_PAGES_LINK) | 🗂️ [GitHub Repo](https://github.com/khusniddiniskandarov/portfolio)  
-💡 A personal portfolio website showcasing my projects and skills, fully responsive and modern design.
-
-### 2️⃣ Todo App
-🔗 [Live Demo](https://YOUR_GITHUB_PAGES_LINK) | 🗂️ [GitHub Repo](https://github.com/khusniddiniskandarov/todo-app)  
-💡 Simple Todo application built with JavaScript, showcasing CRUD functionality and responsive UI.
-
----
 
 ## 🔧 Tech Stack
 <p align="center">
