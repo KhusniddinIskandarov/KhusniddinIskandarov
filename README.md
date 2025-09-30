@@ -1,7 +1,8 @@
 ### 🚀 Passionate about continuous growth, writing clean code, and building real-world projects.  
 ### 🎯 Currently open to opportunities as a **Frontend React Developer**
 
-##        🛠️ Tech Stack   HTML, CSS, Sass/SCSS, Bootstrap, JavaScript (ES6+), React, TailwindCSS, Git  
+                      #        🛠️ Tech Stack  
+## HTML, CSS, Sass/SCSS, Bootstrap, JavaScript (ES6+), React, TailwindCSS, Git  
 
 ---
 
