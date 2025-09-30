@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Khusniddin
 
-<!--
-**KhusniddinIskandarov/KhusniddinIskandarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Self-taught Frontend Developer**  
+📅 2.5+ years of consistent learning & building  
+📂 Specialized in creating responsive, user-friendly web applications  
+🛠️ Tech stack: HTML, CSS, Sass/SCSS, Bootstrap, JavaScript (ES6+), React, TailwindCSS, Git  
 
-Here are some ideas to get you started:
+🚀 Passionate about continuous growth, writing clean code, and building real-world projects.  
+🎯 Currently open to opportunities as a **Frontend React Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Connect
+- 🌎 [Portfolio](https://yourportfolio.com)
+- 💼 [LinkedIn](https://linkedin.com/in/your-link)
+- 📧 yourmail@example.com
+- 💬 [Telegram](https://t.me/yourusername)
+
+---
+
+## 🛠️ Featured Projects
+- 🔗 [Todo App](https://github.com/yourusername/todo-app) — Simple todo app built with JS.
+- 🔗 [Portfolio](https://github.com/yourusername/portfolio) — My personal portfolio site.
+
+---
+
+## 📊 GitHub Stats
+![Khusniddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
