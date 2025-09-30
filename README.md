@@ -5,7 +5,7 @@
 
 | 🌐 Connect | 🛠️ Featured Projects |
 |-----------|--------------------|
-| - 🌎 [My Portfolio](https://yourportfolio.com)<br>- 💼 [My LinkedIn](https://linkedin.com/in/your-link)<br>- 📧 [My email address!](kh.sh.iskandarov@gmail.com)<br>- 💬 [My Telegram](https://t.me/yourusername) | - 🔗 [Todo App](https://github.com/yourusername/todo-app) — Built with **JavaScript, HTML, CSS**. Features: Add/Edit/Delete Todos, Persistent Storage.<br>- 🔗 [Portfolio](https://github.com/yourusername/portfolio) — Built with **React & TailwindCSS**, responsive and modern design. |
+| - 🌎 [Portfolio](https://yourportfolio.com)<br>- 💼 [LinkedIn](https://linkedin.com/in/your-link)<br>- 📧 [My email address!](kh.sh.iskandarov@gmail.com)<br>- 💬 [Telegram](https://t.me/yourusername) | - 🔗 [Todo App](https://github.com/yourusername/todo-app) — Built with **JavaScript, HTML, CSS**. Features: Add/Edit/Delete Todos, Persistent Storage.<br>- 🔗 [Portfolio](https://github.com/yourusername/portfolio) — Built with **React & TailwindCSS**, responsive and modern design. |
 
 ---
 
