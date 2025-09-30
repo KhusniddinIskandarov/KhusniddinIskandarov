@@ -1,11 +1,5 @@
-## 🚀 Passionate about continuous growth, writing clean code, and building real-world projects.  
-## 🎯 Currently open to opportunities as a **Frontend React Developer**
-
----
-
-| 🌐 Connect | 🛠️ Featured Projects |
-|------------|---------------------|
-| - 🌎 [Portfolio](https://yourportfolio.com) <br> - 💼 [LinkedIn](https://linkedin.com/in/your-link) <br> - 📧 yourmail@example.com <br> - 💬 [Telegram](https://t.me/yourusername) | - 🔗 [Todo App](https://github.com/yourusername/todo-app) — JS todo app <br> - 🔗 [Portfolio](https://github.com/yourusername/portfolio) — My portfolio site |
+# 🚀 Passionate about continuous growth, writing clean code, and building real-world projects.  
+# 🎯 Currently open to opportunities as a **Frontend React Developer**
 
 ---
 
@@ -21,8 +15,27 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&gradient=red,orange"/>
 </p>
 
+
+
+---
+
+## 🌐 Connect
+- 🌎 [Portfolio](https://yourportfolio.com)
+- 💼 [LinkedIn](https://linkedin.com/in/your-link)
+- 📧 yourmail@example.com
+- 💬 [Telegram](https://t.me/yourusername)
+
+---
+
+## 🛠️ Featured Projects
+- 🔗 [Todo App](https://github.com/yourusername/todo-app) — Simple todo app built with JS.
+- 🔗 [Portfolio](https://github.com/yourusername/portfolio) — My personal portfolio site.
+
 ---
 
 ## 📊 GitHub Stats
 ![Khusniddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+
+
+
