@@ -4,8 +4,8 @@
 ---
 
 | 🌐 Connect | 🛠️ Featured Projects |
-|-----------|--------------------|
-| - 🌎 [Portfolio](https://yourportfolio.com)<br>- 💼 [LinkedIn](https://linkedin.com/in/your-link)<br>- 📧 yourmail@example.com<br>- 💬 [Telegram](https://t.me/yourusername) | - 🔗 [Todo App](https://github.com/yourusername/todo-app) — Simple todo app built with JS.<br>- 🔗 [Portfolio](https://github.com/yourusername/portfolio) — My personal portfolio site. |
+|------------|---------------------|
+| - 🌎 [Portfolio](https://yourportfolio.com) <br> - 💼 [LinkedIn](https://linkedin.com/in/your-link) <br> - 📧 yourmail@example.com <br> - 💬 [Telegram](https://t.me/yourusername) | - 🔗 [Todo App](https://github.com/yourusername/todo-app) — JS todo app <br> - 🔗 [Portfolio](https://github.com/yourusername/portfolio) — My portfolio site |
 
 ---
 
