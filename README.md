@@ -7,7 +7,7 @@
 ---
 
 ## 🔧 Tech Stack
-HTML • CSS • Sass/SCSS • Bootstrap • JavaScript • React • TailwindCSS • Git  
+💡 HTML • CSS • Sass/SCSS • Bootstrap • JavaScript • React • TailwindCSS • Git  
 
 ---
 
@@ -21,7 +21,9 @@ HTML • CSS • Sass/SCSS • Bootstrap • JavaScript • React • TailwindCS
 ---
 
 ## 📊 GitHub Stats
-![Khusniddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)  
+![Khusniddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=khusniddiniskandarov&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khusniddiniskandarov&layout=compact&theme=radical)
 
 ---
 
