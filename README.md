@@ -17,19 +17,23 @@
 ![Portfolio Screenshot](https://via.placeholder.com/600x300.png?text=Portfolio+Screenshot)
 - 🔗 [Live Demo](#) | 🗂️ [GitHub Repo](#)  
 - Built with **React & TailwindCSS** to showcase personal projects and skills.  
-- 🎯 Features: Responsive design, interactive UI, portfolio sections.
+- 🎯 Features: Responsive design, interactive UI, portfolio sections.  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 2️⃣ Todo App
 ![Todo Screenshot](https://via.placeholder.com/600x300.png?text=Todo+App+Screenshot)
 - 🔗 [Live Demo](#) | 🗂️ [GitHub Repo](#)  
 - Built with **JavaScript** for managing daily tasks efficiently.  
-- 🎯 Features: Add/Delete tasks, mark complete, localStorage support.
+- 🎯 Features: Add/Delete tasks, mark complete, localStorage support.  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 3️⃣ Random Quote Generator
 ![Quote Generator Screenshot](https://via.placeholder.com/600x300.png?text=Quote+Generator+Screenshot)
 - 🔗 [Live Demo](#) | 🗂️ [GitHub Repo](#)  
 - Fetches quotes from **API** and displays randomly.  
-- 🎯 Features: Modern UI, smooth transitions, random API integration.
+- 🎯 Features: Modern UI, smooth transitions, random API integration.  
+![API](https://img.shields.io/badge/API-007ACC?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -40,13 +44,19 @@
 
 ---
 
+## 📈 GitHub Activity
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=khusniddiniskandarov&theme=radical)
+
+---
+
 ## 📫 Connect with Me
 🌐 [Portfolio](#) | 💼 [LinkedIn](#) | ✈️ [Telegram](#)
 
 ---
 
-### 🔹 Features of this README:
-- Project screenshots & badges make **visual appeal** strong.  
-- Live demo & GitHub repo links → **showcase your work** effectively.  
-- Tech stack & stats → immediately visible to recruiters.  
-- Fully **professional, modern, and concise** for GitHub portfolio.  
+### 🔹 Features
+- Real project screenshots with badges  
+- Live demo & GitHub repo links  
+- Tech stack with badges for visual appeal  
+- GitHub stats & streak to show activity  
+- Clean, professional, and modern portfolio
