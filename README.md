@@ -1,8 +1,5 @@
 # 👋 Hi, I'm Khusniddin
 
-💻 **Self-taught Frontend Developer** | 2.5+ years building personal projects  
-🚀 Skilled in **HTML, CSS, Sass/SCSS, Bootstrap, JavaScript, React, TailwindCSS, Git**  
-
 ---
 
 ## 🌟 Featured Projects
