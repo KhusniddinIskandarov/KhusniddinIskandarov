@@ -1,29 +1,29 @@
 # 👋 Hi, I'm Khusniddin
 
-💻 **Self-taught Frontend Developer** | 2.5+ years building personal projects  
-🚀 Skilled in **HTML, CSS, Sass/SCSS, Bootstrap, JavaScript, React, TailwindCSS, Git**  
-📂 Focused on creating both small and large personal projects to improve skills  
+💻 **Self-taught Frontend Developer**  
+📅 2.5+ years of consistent learning & building  
+📂 Specialized in creating responsive, user-friendly web applications  
+🛠️ Tech stack: HTML, CSS, Sass/SCSS, Bootstrap, JavaScript (ES6+), React, TailwindCSS, Git  
+
+🚀 Passionate about continuous growth, writing clean code, and building real-world projects.  
+🎯 Currently open to opportunities as a **Frontend React Developer**
 
 ---
 
-## 🔧 Tech Stack
-HTML • CSS • Sass/SCSS • Bootstrap • JavaScript • React • TailwindCSS • Git  
+## 🌐 Connect
+- 🌎 [Portfolio](https://yourportfolio.com)
+- 💼 [LinkedIn](https://linkedin.com/in/your-link)
+- 📧 yourmail@example.com
+- 💬 [Telegram](https://t.me/yourusername)
 
 ---
 
-## 🌟 Featured Projects
-- 📌 [Portfolio Website](#) – Personal portfolio built with React & TailwindCSS  
-- 📌 [Todo App](#) – Task manager app with JavaScript  
-- 📌 [Random Quote Generator](#) – Simple fun project with API integration  
-
-*(Replace `#` with actual GitHub repo links or live demos)*  
+## 🛠️ Featured Projects
+- 🔗 [Todo App](https://github.com/yourusername/todo-app) — Simple todo app built with JS.
+- 🔗 [Portfolio](https://github.com/yourusername/portfolio) — My personal portfolio site.
 
 ---
 
 ## 📊 GitHub Stats
-![Khusniddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=khusniddiniskandarov&show_icons=true&theme=radical)  
-
----
-
-## 📫 Connect with Me
-🌐 [Portfolio](#) | 💼 [LinkedIn](#) | ✈️ [Telegram](#)
+![Khusniddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
