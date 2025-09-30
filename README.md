@@ -3,26 +3,23 @@
 
 ---
 
-<table width="100%">
-<tr>
-<td align="left" width="48%" valign="top">
+<div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
 
-## 🌐 Connect
+<div style="flex: 0 0 48%; border: 2px solid #ccc; border-radius: 10px; padding: 15px;">
+### 🌐 Connect
 - 🌎 [Portfolio](https://yourportfolio.com)
 - 💼 [LinkedIn](https://linkedin.com/in/your-link)
 - 📧 yourmail@example.com
 - 💬 [Telegram](https://t.me/yourusername)
+</div>
 
-</td>
-<td align="right" width="48%" valign="top">
-
-## 🛠️ Featured Projects
+<div style="flex: 0 0 48%; border: 2px solid #ccc; border-radius: 10px; padding: 15px;">
+### 🛠️ Featured Projects
 - 🔗 [Todo App](https://github.com/yourusername/todo-app) — JS todo app, CRUD & responsive UI
 - 🔗 [Portfolio](https://github.com/yourusername/portfolio) — Personal portfolio site, fully responsive
+</div>
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
