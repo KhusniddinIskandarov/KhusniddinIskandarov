@@ -1,27 +1,29 @@
 # 👋 Hi, I'm Khusniddin
 
 💻 **Self-taught Frontend Developer** | 2.5+ years building personal projects  
-🚀 Skilled in **HTML, CSS, Sass/SCSS, Bootstrap, JS, React, TailwindCSS, Git**  
+🚀 Skilled in **HTML, CSS, Sass/SCSS, Bootstrap, JavaScript, React, TailwindCSS, Git**  
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Projects (Live Mini Preview)
 
 ### 1️⃣ Portfolio Website
 <div align="center">
   <a href="https://YOUR_GITHUB_PAGES_LINK" target="_blank">
-    <img src="https://via.placeholder.com/600x300.png?text=Portfolio+Static" alt="Portfolio Screenshot" style="border-radius:15px; transition: transform 0.3s;" onmouseover="this.src='https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif'" onmouseout="this.src='https://via.placeholder.com/600x300.png?text=Portfolio+Static'"/>
+    <iframe src="https://YOUR_GITHUB_PAGES_LINK" style="width:600px; height:300px; border-radius:15px;" title="Portfolio Live Preview"></iframe>
   </a>
 </div>
-- 🔗 [Live Demo](https://YOUR_GITHUB_PAGES_LINK) | 🗂️ [GitHub Repo](https://github.com/khusniddiniskandarov/portfolio)
+- 🔗 [Live Demo](https://YOUR_GITHUB_PAGES_LINK) | 🗂️ [GitHub Repo](https://github.com/khusniddiniskandarov/portfolio)  
+- Responsive, interactive UI, animations.
 
 ### 2️⃣ Todo App
 <div align="center">
   <a href="https://YOUR_GITHUB_PAGES_LINK" target="_blank">
-    <img src="https://via.placeholder.com/600x300.png?text=Todo+Static" alt="Todo Screenshot" style="border-radius:15px; transition: transform 0.3s;" onmouseover="this.src='https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif'" onmouseout="this.src='https://via.placeholder.com/600x300.png?text=Todo+Static'"/>
+    <iframe src="https://YOUR_GITHUB_PAGES_LINK" style="width:600px; height:300px; border-radius:15px;" title="Todo Live Preview"></iframe>
   </a>
 </div>
-- 🔗 [Live Demo](https://YOUR_GITHUB_PAGES_LINK) | 🗂️ [GitHub Repo](https://github.com/khusniddiniskandarov/todo-app)
+- 🔗 [Live Demo](https://YOUR_GITHUB_PAGES_LINK) | 🗂️ [GitHub Repo](https://github.com/khusniddiniskandarov/todo-app)  
+- Add/Delete tasks, smooth hover & interactive features.
 
 ---
 
