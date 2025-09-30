@@ -12,11 +12,24 @@
 ---
 
 ## 🌟 Featured Projects
-- 📌 [Portfolio Website](#) – Personal portfolio built with React & TailwindCSS  
-- 📌 [Todo App](#) – Task manager app with JavaScript  
-- 📌 [Random Quote Generator](#) – Simple fun project with API integration  
 
-*(Replace `#` with actual GitHub repo links or live demos)*  
+### 1️⃣ Portfolio Website
+![Portfolio Screenshot](https://via.placeholder.com/600x300.png?text=Portfolio+Screenshot)
+- 🔗 [Live Demo](#) | 🗂️ [GitHub Repo](#)  
+- Built with **React & TailwindCSS** to showcase personal projects and skills.  
+- 🎯 Features: Responsive design, interactive UI, portfolio sections.
+
+### 2️⃣ Todo App
+![Todo Screenshot](https://via.placeholder.com/600x300.png?text=Todo+App+Screenshot)
+- 🔗 [Live Demo](#) | 🗂️ [GitHub Repo](#)  
+- Built with **JavaScript** for managing daily tasks efficiently.  
+- 🎯 Features: Add/Delete tasks, mark complete, localStorage support.
+
+### 3️⃣ Random Quote Generator
+![Quote Generator Screenshot](https://via.placeholder.com/600x300.png?text=Quote+Generator+Screenshot)
+- 🔗 [Live Demo](#) | 🗂️ [GitHub Repo](#)  
+- Fetches quotes from **API** and displays randomly.  
+- 🎯 Features: Modern UI, smooth transitions, random API integration.
 
 ---
 
@@ -29,3 +42,11 @@
 
 ## 📫 Connect with Me
 🌐 [Portfolio](#) | 💼 [LinkedIn](#) | ✈️ [Telegram](#)
+
+---
+
+### 🔹 Features of this README:
+- Project screenshots & badges make **visual appeal** strong.  
+- Live demo & GitHub repo links → **showcase your work** effectively.  
+- Tech stack & stats → immediately visible to recruiters.  
+- Fully **professional, modern, and concise** for GitHub portfolio.  
