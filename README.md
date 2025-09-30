@@ -3,18 +3,25 @@
 
 ---
 
+<div style="display: flex; gap: 20px; align-items: flex-start; justify-content: center;">
+
+<div style="flex: 0 0 48%;">
 ## 🌐 Connect
 - 🌎 [Portfolio](https://yourportfolio.com)
 - 💼 [LinkedIn](https://linkedin.com/in/your-link)
 - 📧 yourmail@example.com
 - 💬 [Telegram](https://t.me/yourusername)
+</div>
 
----
+<div style="flex: 0 0 2px; background-color: #000;"></div>
 
+<div style="flex: 0 0 48%;">
 ## 🛠️ Featured Projects
 - 🔗 [Todo App](https://github.com/yourusername/todo-app) — Simple todo app built with JS.
 - 🔗 [Portfolio](https://github.com/yourusername/portfolio) — My personal portfolio site.
+</div>
 
+</div>
 
 ---
 
