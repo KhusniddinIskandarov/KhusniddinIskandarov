@@ -1,12 +1,7 @@
-# 👋 Hi, I'm Khusniddin
-
-💻 **Self-taught Frontend Developer**  
-📅 2.5+ years of consistent learning & building  
-📂 Specialized in creating responsive, user-friendly web applications  
-🛠️ Tech stack: HTML, CSS, Sass/SCSS, Bootstrap, JavaScript (ES6+), React, TailwindCSS, Git  
-
-🚀 Passionate about continuous growth, writing clean code, and building real-world projects.  
-🎯 Currently open to opportunities as a **Frontend React Developer**
+# 🛠️ Tech stack: HTML, CSS, Sass/SCSS, Bootstrap, JavaScript (ES6+), React, TailwindCSS, Git  
+--
+## 🚀 Passionate about continuous growth, writing clean code, and building real-world projects.  
+## 🎯 Currently open to opportunities as a **Frontend React Developer**
 
 ---
 
