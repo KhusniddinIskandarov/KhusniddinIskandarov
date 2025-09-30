@@ -3,30 +3,9 @@
 
 ---
 
-<p float="left" align="center">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 50px; width: 100%;">
-    
-    <!-- Left column: Connect -->
-    <div style="flex: 1; text-align: left;">
-      ## 🌐 Connect
-      - 🌎 [Portfolio](https://yourportfolio.com)
-      - 💼 [LinkedIn](https://linkedin.com/in/your-link)
-      - 📧 yourmail@example.com
-      - 💬 [Telegram](https://t.me/yourusername)
-    </div>
-
-    <!-- Middle divider -->
-    <div style="width: 2px; background-color: black; height: auto;"></div>
-
-    <!-- Right column: Featured Projects -->
-    <div style="flex: 1; text-align: left;">
-      ## 🛠️ Featured Projects
-      - 🔗 [Todo App](https://github.com/yourusername/todo-app) — Simple todo app built with JS.
-      - 🔗 [Portfolio](https://github.com/yourusername/portfolio) — My personal portfolio site.
-    </div>
-
-  </div>
-</p>
+| 🌐 Connect | 🛠️ Featured Projects |
+|-----------|--------------------|
+| - 🌎 [Portfolio](https://yourportfolio.com)<br>- 💼 [LinkedIn](https://linkedin.com/in/your-link)<br>- 📧 yourmail@example.com<br>- 💬 [Telegram](https://t.me/yourusername) | - 🔗 [Todo App](https://github.com/yourusername/todo-app) — Simple todo app built with JS.<br>- 🔗 [Portfolio](https://github.com/yourusername/portfolio) — My personal portfolio site. |
 
 ---
 
