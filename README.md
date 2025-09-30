@@ -3,27 +3,13 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
-
-<div style="flex: 0 0 48%; border: 2px solid #ccc; border-radius: 10px; padding: 15px;">
-### 🌐 Connect
-- 🌎 [Portfolio](https://yourportfolio.com)
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)
-- 📧 yourmail@example.com
-- 💬 [Telegram](https://t.me/yourusername)
-</div>
-
-<div style="flex: 0 0 48%; border: 2px solid #ccc; border-radius: 10px; padding: 15px;">
-### 🛠️ Featured Projects
-- 🔗 [Todo App](https://github.com/yourusername/todo-app) — JS todo app, CRUD & responsive UI
-- 🔗 [Portfolio](https://github.com/yourusername/portfolio) — Personal portfolio site, fully responsive
-</div>
-
-</div>
+| 🌐 Connect | 🛠️ Featured Projects |
+|------------|---------------------|
+| - 🌎 [Portfolio](https://yourportfolio.com) <br> - 💼 [LinkedIn](https://linkedin.com/in/your-link) <br> - 📧 yourmail@example.com <br> - 💬 [Telegram](https://t.me/yourusername) | - 🔗 [Todo App](https://github.com/yourusername/todo-app) — JS todo app <br> - 🔗 [Portfolio](https://github.com/yourusername/portfolio) — My portfolio site |
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech stack:
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&gradient=red,orange"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&gradient=blue,cyan"/>
