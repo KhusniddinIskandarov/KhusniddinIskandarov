@@ -1,29 +1,19 @@
 # 👋 Hi, I'm Khusniddin
 
-💻 **Self-taught Frontend Developer**  
-📅 2.5+ years of consistent learning & building  
-📂 Specialized in creating responsive, user-friendly web applications  
-🛠️ Tech stack: HTML, CSS, Sass/SCSS, Bootstrap, JavaScript (ES6+), React, TailwindCSS, Git  
-
-🚀 Passionate about continuous growth, writing clean code, and building real-world projects.  
-🎯 Currently open to opportunities as a **Frontend React Developer**
+💻 **Self-taught Frontend Developer** | 2.5+ years building personal projects  
+🚀 Skilled in **HTML, CSS, Sass/SCSS, Bootstrap, JavaScript, React, TailwindCSS, Git**  
 
 ---
 
-## 🌐 Connect
-- 🌎 [Portfolio](https://yourportfolio.com)
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)
-- 📧 yourmail@example.com
-- 💬 [Telegram](https://t.me/yourusername)
+## 🌟 Featured Projects
+
+### 1️⃣ Portfolio Website
+🔗 [Live Demo](https://YOUR_GITHUB_PAGES_LINK) | 🗂️ [GitHub Repo](https://github.com/khusniddiniskandarov/portfolio)  
+
+### 2️⃣ Todo App
+🔗 [Live Demo](https://YOUR_GITHUB_PAGES_LINK) | 🗂️ [GitHub Repo](https://github.com/khusniddiniskandarov/todo-app)  
 
 ---
 
-## 🛠️ Featured Projects
-- 🔗 [Todo App](https://github.com/yourusername/todo-app) — Simple todo app built with JS.
-- 🔗 [Portfolio](https://github.com/yourusername/portfolio) — My personal portfolio site.
-
----
-
-## 📊 GitHub Stats
-![Khusniddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+## 📫 Connect with Me
+🌐 [Portfolio](https://YOUR_GITHUB_PAGES_LINK) | 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINK) | ✈️ [Telegram](https://t.me/YOUR_USERNAME)
