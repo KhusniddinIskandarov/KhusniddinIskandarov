@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Husniddin Iskandarov
 
-## 🚀 Passionate Frontend React Developer  
+## 🚀 Passionate Frontend React Developer
 🎯 Building interactive, user-friendly web apps with **React, TailwindCSS, and modern JavaScript**.  
 🔹 Continuously learning and contributing to open-source projects.
 
@@ -9,7 +9,7 @@
 ## 🌐 Connect with me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D1%85%D1%83%D1%81%D0%BD%D0%B8%D0%B4%D0%B4%D0%B8%D0%BD-%D0%B8%D1%81%D0%BA%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D0%BE%D0%B2-0b795b357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D1%85%D1%83%D1%81%D0%BD%D0%B8%D0%B4%D0%B4%D0%B8%D0%BD-%D0%B8%D1%81%D0%BA%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D0%BE%D0%B2-0b795b357)  
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/agastrimboy)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kh.sh.iskandarov@gmail.com)
 
@@ -32,13 +32,13 @@
 
 ## 📂 Featured Projects
 
-| Project | Description | Demo / Repo |
-|---------|-------------|------------|
-| **Todo App** | Add/Edit/Delete Todos, Persistent Storage | [Demo](#) / [Code](https://github.com/yourusername/todo-app) |
-| **Portfolio** | Built with React & TailwindCSS, responsive & modern | [Demo](#) / [Code](https://github.com/yourusername/portfolio) |
-| **Weather App** | Real-time weather data, React + API | [Demo](#) / [Code](#) |
+| Project | Screenshot / GIF | Description | Demo / Repo |
+|---------|-----------------|-------------|------------|
+| **Todo App** | ![Todo App](https://via.placeholder.com/200x100.png?text=Todo+App) | Add/Edit/Delete Todos, Persistent Storage | [Demo](#) / [Code](https://github.com/yourusername/todo-app) |
+| **Portfolio** | ![Portfolio](https://via.placeholder.com/200x100.png?text=Portfolio) | Built with React & TailwindCSS, responsive & modern | [Demo](#) / [Code](https://github.com/yourusername/portfolio) |
+| **Weather App** | ![Weather App](https://via.placeholder.com/200x100.png?text=Weather+App) | Real-time weather data, React + API | [Demo](#) / [Code](#) |
 
-> 🔹 **Tip:** Private repos’larni **Code** link bilan qo‘shsangiz, faqat ruxsat olganlar ko‘ra oladi, profilingda visual demo esa ko‘rinadi.
+> 🔹 **Tip:** Private repos’larni **Code** link bilan qo‘shsangiz, faqat ruxsat olganlar ko‘ra oladi. Visual demo profilingda ko‘rinadi.
 
 ---
 
@@ -60,6 +60,6 @@ Constantly improving my skills and contributing to open-source projects.
 
 - Email: [kh.sh.iskandarov@gmail.com](mailto:kh.sh.iskandarov@gmail.com)  
 - Telegram: [@agastrimboy](https://t.me/agastrimboy)  
-- LinkedIn: [Husniddin Iskandarov](https://www.linkedin.com/in/%D1%85%D1%83%D1%81%D0%BD%D0%B8%D0%B4%D0%B4%D0%B8%D0%BD-%D0%B8%D1%81%D0%BA%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D0%BE%D0%B2-0b795b357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- LinkedIn: [Husniddin Iskandarov](https://www.linkedin.com/in/%D1%85%D1%83%D1%81%D0%BD%D0%B8%D0%B4%D0%B4%D0%B8%D0%BD-%D0%B8%D1%81%D0%BA%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D0%BE%D0%B2-0b795b357)
 
 ---
