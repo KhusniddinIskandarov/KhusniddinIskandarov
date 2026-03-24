@@ -134,16 +134,7 @@
   </a>
 </p>
 
-<!-- Weekly Development Breakdown -->
-<h2 align="center">📊 Weekly Development Breakdown</h2>
-
-<a href="https://wakatime.com/@KhusniddinIskandarov">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@KhusniddinIskandarov&theme=radical" alt="Wakatime Stats"/>
-</a>
-
-<!-- Languages & Coding Activity -->
-<img src="https://wakatime.com/share/@KhusniddinIskandarov/first-graph-id.svg" style="width:100%;"/>
-<img src="https://wakatime.com/share/@KhusniddinIskandarov/second-graph-id.svg" style="width:100%;"/>
+<figure><embed src="https://wakatime.com/share/@KhusniddinIskandarov/915428bc-d515-4594-bc1e-add6b1821618.svg"></embed></figure>
 
   ---
 
