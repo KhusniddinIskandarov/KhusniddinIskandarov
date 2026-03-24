@@ -49,5 +49,4 @@
 * Contribute to open source
 * Reach **HARVARD-level engineering mindset**
 
----
 
