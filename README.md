@@ -116,6 +116,50 @@
     <img src="https://img.shields.io/github/followers/KhusniddinIskandarov?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub Followers" />
   </a>  
 </p>
+
+
+<!-- Image -->
+<p align="center">
+  <img height="70em" src="http://cdn.onlinewebfonts.com/svg/img_529337.png">
+</p>
+
+<!-- Total time coded -->
+<p align="center">
+  <h2 align="center">📊 Total time coded </h2>
+</p>
+
+<p align="center">
+  <a href="https://wakatime.com/@018af96f-cc66-4e21-a00c-028b0e9f72bb">
+    <img src="https://wakatime.com/badge/user/018af96f-cc66-4e21-a00c-028b0e9f72bb.svg?style=for-the-badge" alt="Total time coded since Oct 4 2023" />
+  </a>
+</p>
+
+<!-- Weekly development breakdown -->
+<p align="center">
+  <h2 align="center">📊 Weekly development breakdown</h2>
+</p>
+
+<p align="center">
+  <a href="https://wakatime.com/@KhusniddinIskandarov">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KhusniddinIskandarov&theme=radical" alt="Khusniddin's Wakatime Stats">
+  </a>
+</p>
+
+<!-- Languages & Coding Activity -->
+<p align="center">
+  <table style="width:100%;" align="center">
+    <tr>
+        <td style="width:100%; text-align:center;">
+            <img src="https://wakatime.com/share/@KhusniddinIskandarov/681132bf-28b1-4917-a13c-d8eb1ee9a106.svg" style="width:100%;"/>
+        </td>
+        <td style="width:100%; text-align:center;">
+            <img src="https://wakatime.com/share/@KhusniddinIskandarov/e426474e-26a6-4737-9a69-e8a5f141d0b7.svg" style="width:100%;"/>
+        </td>
+    </tr>
+</table>
+</p>
+
+
   ---
 
 ## 📊 GitHub Stats
