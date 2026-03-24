@@ -112,6 +112,10 @@
     <img src="https://komarev.com/ghpvc/?username=KhusniddinIskandarov&&style=for-the-badge" alt="Profile Views" />
   </a>
 
+  <a href="https://github.com/KhusniddinIskandarov?tab=followers">
+    <img src="https://img.shields.io/github/followers/KhusniddinIskandarov?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub Followers" />
+  </a>  
+</p>
   ---
 
 ## 📊 GitHub Stats
