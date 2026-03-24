@@ -48,8 +48,6 @@
   
 </p>
 
----
-
 <h3 align="center">Tools: (Workflow & Utilities)</h3>
 <p align="center"> 
   <!-- IDE & Version Control (asosiy) -->
