@@ -139,8 +139,8 @@
 
 <p align="center">
   <!-- Wakatime Stats Card -->
-  <a href="https://wakatime.com/@yourusername">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=radical" alt="Wakatime Stats"/>
+  <a href="https://wakatime.com/@KhusniddinIskandarov">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KhusniddinIskandarov&theme=radical" alt="Wakatime Stats"/>
   </a>
 </p>
 
@@ -149,10 +149,10 @@
   <table style="width:100%;" align="center">
     <tr>
         <td style="width:100%; text-align:center;">
-            <img src="https://wakatime.com/share/@yourusername/first-graph-id.svg" style="width:100%;"/>
+            <img src="https://wakatime.com/share/@KhusniddinIskandarov/first-graph-id.svg" style="width:100%;"/>
         </td>
         <td style="width:100%; text-align:center;">
-            <img src="https://wakatime.com/share/@yourusername/second-graph-id.svg" style="width:100%;"/>
+            <img src="https://wakatime.com/share/@KhusniddinIskandarov/second-graph-id.svg" style="width:100%;"/>
         </td>
     </tr>
   </table>
