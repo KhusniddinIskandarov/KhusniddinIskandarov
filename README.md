@@ -134,14 +134,13 @@
   </a>
 </p>
 
-<!-- Weekly development breakdown -->
-<p align="center">
-  <h2 align="center">📊 Weekly development breakdown</h2>
-</p>
+<!-- Weekly Development Breakdown -->
+<h2 align="center">📊 Weekly Development Breakdown</h2>
 
 <p align="center">
-  <a href="https://wakatime.com/@otamurod">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=otamurod&theme=radical" alt="Otamurod's Wakatime Stats">
+  <!-- Wakatime Stats Card -->
+  <a href="https://wakatime.com/@yourusername">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yourusername&theme=radical" alt="Wakatime Stats"/>
   </a>
 </p>
 
@@ -150,15 +149,14 @@
   <table style="width:100%;" align="center">
     <tr>
         <td style="width:100%; text-align:center;">
-            <img src="https://wakatime.com/share/@otamurod/681132bf-28b1-4917-a13c-d8eb1ee9a106.svg" style="width:100%;"/>
+            <img src="https://wakatime.com/share/@yourusername/first-graph-id.svg" style="width:100%;"/>
         </td>
         <td style="width:100%; text-align:center;">
-            <img src="https://wakatime.com/share/@otamurod/e426474e-26a6-4737-9a69-e8a5f141d0b7.svg" style="width:100%;"/>
+            <img src="https://wakatime.com/share/@yourusername/second-graph-id.svg" style="width:100%;"/>
         </td>
     </tr>
-</table>
+  </table>
 </p>
-
 
   ---
 
