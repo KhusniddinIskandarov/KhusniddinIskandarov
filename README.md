@@ -1,7 +1,5 @@
 <!-- GitHub Stats -->
-<p align="center">
   <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" alt="GitHub Readme Stats" />
-</p>
 
 <!-- Header -->
 <p align="center">
