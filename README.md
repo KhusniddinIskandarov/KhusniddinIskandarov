@@ -12,7 +12,7 @@
 
 ---
 
-### Feel free to reach out for collaboration or job opportunities!
+### 💡 Feel free to reach out for collaboration or job opportunities!
 
 | 🌐 Connect | 🛠️ Featured Projects |
 |-----------|--------------------|
