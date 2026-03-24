@@ -98,19 +98,7 @@
   <a href="https://scrollrevealjs.org/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/12637703?s=200&v=4" alt="ScrollReveal" width="40" height="40"/>
   </a>
-
----
-
-<p align="center">
-  <h2 align="center">Profile Stats</h2>
-</p>
-
-<p align="center">
-  <a href="https://github.com/KhusniddinIskandarov">
-    <img src="https://komarev.com/ghpvc/?username=KhusniddinIskandarov&&style=for-the-badge" alt="Profile Views" />
-  </a>
-</p>
-
+  
 ---
 
 ## 📊 GitHub Stats
