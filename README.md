@@ -27,7 +27,7 @@
 * 📈 Continuously improving and learning advanced frontend concepts
 
 <div align="center">
-  ### 💡 Feel free to reach out for collaboration or job opportunities!
+### 💡 Feel free to reach out for collaboration or job opportunities!
 </div>
 
 | 🌐 Connect | 🛠️ Featured Projects |
