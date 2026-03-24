@@ -1,3 +1,9 @@
+<!-- GitHub Rankings -->
+<p align="center">
+  <h2 align="center">GitHub Rankings</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=otamurod&theme=radical" alt="GitHub Ranks" />
+</p>
+
 <!-- Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome+👋&height=100&section=header"/>
