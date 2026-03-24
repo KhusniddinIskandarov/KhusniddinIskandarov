@@ -103,6 +103,17 @@
 
 ---
 
+<p align="center">
+  <h2 align="center">Profile Stats</h2>
+</p>
+
+<p align="center">
+  <a href="https://github.com/KhusniddinIskandarov">
+    <img src="https://komarev.com/ghpvc/?username=KhusniddinIskandarov&&style=for-the-badge" alt="Profile Views" />
+  </a>
+
+  ---
+
 ## 📊 GitHub Stats
 ![Khusniddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhusniddinIskandarov&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&layout=compact&theme=tokyonight)
