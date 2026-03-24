@@ -58,7 +58,9 @@
 <!-- Contribution Diagram -->
 <p align="center">
   <h2 align="center">Contribution Diagram</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=otamurod&theme=dracula" alt="Otamurod's Github Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=
+KhusniddinIskandarov&theme=dracula" alt="
+Khusniddin's Github Activity Graph">
 </p>
 
 ---
