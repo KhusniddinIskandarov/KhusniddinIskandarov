@@ -1,5 +1,14 @@
-## 🚀 Passionate about continuous growth, writing clean code, and building real-world projects.  
-## 🎯 Currently open to opportunities as a **Frontend React Developer**
+# 🚀 Frontend Developer focused on building clean, scalable, and user-friendly web applications.
+
+---
+
+## 🧠 About Me
+
+* 💻 Strong foundation in **HTML, CSS, JavaScript (ES6+)**
+* 🎨 Skilled in **TailwindCSS + modern UI styling**
+* ⚡ Experience with **Vite-based workflows**
+* 🧩 Focused on **modular architecture & clean code**
+* 📈 Continuously improving and learning advanced frontend concepts
 
 ---
 
