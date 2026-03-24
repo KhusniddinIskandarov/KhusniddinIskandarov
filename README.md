@@ -140,7 +140,7 @@
 </p>
 
 <p align="center">
-  <a href="https://wakatime.com/@Khusniddin">
+  <a href="https://wakatime.com/@khusniddiniskandarov">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KhusniddinIskandarov&theme=radical" alt="Khusniddin's Wakatime Stats">
   </a>
 </p>
