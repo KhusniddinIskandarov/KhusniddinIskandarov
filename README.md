@@ -134,6 +134,8 @@
   </a>
 </p>
 
+[![wakatime](https://wakatime.com/badge/user/7a1e54f1-6aa6-4b5e-984f-de528d38d4ae.svg)](https://wakatime.com/@7a1e54f1-6aa6-4b5e-984f-de528d38d4ae)
+
 <!-- Weekly development breakdown -->
 <p align="center">
   <h2 align="center">📊 Weekly Development Breakdown</h2>
