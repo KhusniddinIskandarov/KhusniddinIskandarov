@@ -1,4 +1,11 @@
-## 🚀 Frontend Developer focused on building clean, scalable, and user-friendly web applications.
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome+👋&height=100&section=header"/>
+</p>
+
+<!-- Intro -->
+<h1 align="center">Hi, I'm Husniddin — Frontend Developer</h1>
+<p align="center">Focused on building clean, scalable, and user-friendly web applications.</p>
 
 ---
 
