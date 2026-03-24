@@ -105,8 +105,6 @@
 ![Khusniddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhusniddinIskandarov&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&layout=compact&theme=tokyonight)
 
----
-
 <!-- Contribution Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhusniddinIskandarov&theme=tokyonight"/>
@@ -120,8 +118,6 @@
 * Work on real-world scalable projects
 * Contribute to open source
 * Reach **HARVARD-level engineering mindset**
-
----
 
 <!-- Closing statement -->
 <p align="center">
