@@ -2,21 +2,15 @@
 
 ---
 
-## 🧠 About Me
+🧠 About Me
+- 💻 Strong foundation in HTML, CSS, JavaScript (ES6+)
+- 🎨 Skilled in TailwindCSS + modern UI styling
+- ⚡ Experienced with Vite-based workflows & performance optimization
+- 🧩 Focused on modular architecture, clean code & reusable components
+- 📝 Professional in documentation discipline — maintaining README.md, CHANGELOG.md, DEVLOG.md, DevNotes.md for clarity and team collaboration
+- 🔧 Workflow-conscious: ESLint, Prettier, Husky, lint-staged, EditorConfig integrated for clean commits and scalable projects
+- 📈 Continuously improving, contributing to open source, and striving for world-class engineering standards
 
-### 💻 Strong foundation in **HTML, CSS, JavaScript (ES6+)** 
-
-### 🎨 Skilled in **TailwindCSS + modern UI styling**  
-
-### ⚡ Experienced with **Vite-based workflows & performance optimization**  
-
-### 🧩 Focused on **modular architecture, clean code & reusable components**  
-
-### 📝 Professional in documentation discipline — maintaining **README.md, CHANGELOG.md, DEVLOG.md, DevNotes.md** for clarity and team collaboration  
-
-### 🔧 Workflow-conscious: **ESLint, Prettier, Husky, lint-staged, EditorConfig** integrated for clean commits and scalable projects  
-
-### 📈 Continuously improving, contributing to open source, and striving for **world-class engineering standards**  
 
 ---
 
