@@ -129,12 +129,9 @@
 </p>
 
 <p align="center">
-  <a href="https://wakatime.com/@018af96f-cc66-4e21-a00c-028b0e9f72bb">
-    <img src="https://wakatime.com/badge/user/018af96f-cc66-4e21-a00c-028b0e9f72bb.svg?style=for-the-badge" alt="Total time coded since Oct 4 2023" />
-  </a>
+<a href="https://wakatime.com/@7a1e54f1-6aa6-4b5e-984f-de528d38d4ae"><img src="https://wakatime.com/badge/user/7a1e54f1-6aa6-4b5e-984f-de528d38d4ae.svg" alt="Total time coded since Mar 25 2026" /></a>
 </p>
 
-[![wakatime](https://wakatime.com/badge/user/7a1e54f1-6aa6-4b5e-984f-de528d38d4ae.svg)](https://wakatime.com/@7a1e54f1-6aa6-4b5e-984f-de528d38d4ae)
 
 <!-- Weekly development breakdown -->
 <p align="center">
