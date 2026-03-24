@@ -5,7 +5,7 @@
 
 <!-- Intro -->
 <h1 align="center">Hi, I'm Husniddin — Frontend Developer</h1>
-<p align="center">Focused on building clean, scalable, and user-friendly web applications.</p>
+<h3 align="center">Focused on building clean, scalable, and user-friendly web applications.</h3>
 
 ---
 
