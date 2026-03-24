@@ -129,7 +129,7 @@
 </p>
 
 <p align="center">
-<a href="https://wakatime.com/@7a1e54f1-6aa6-4b5e-984f-de528d38d4ae"><img src="https://wakatime.com/badge/user/7a1e54f1-6aa6-4b5e-984f-de528d38d4ae.svg" alt="Total time coded since Mar 25 2026" /></a>
+[<a href="https://wakatime.com/@7a1e54f1-6aa6-4b5e-984f-de528d38d4ae"><img src="https://wakatime.com/badge/user/7a1e54f1-6aa6-4b5e-984f-de528d38d4ae.svg" alt="Total time coded since Mar 25 2026" /></a>](https://wakatime.com/badge/user/7a1e54f1-6aa6-4b5e-984f-de528d38d4ae.svg)
 </p>
 
 
