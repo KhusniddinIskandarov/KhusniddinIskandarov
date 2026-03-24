@@ -140,8 +140,8 @@
 </p>
 
 <p align="center">
-  <a href="https://wakatime.com/@khusniddiniskandarov">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KhusniddinIskandarov&theme=radical" alt="Khusniddin's Wakatime Stats">
+  <a href="https://wakatime.com/@otamurod">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=otamurod&theme=radical" alt="Otamurod's Wakatime Stats">
   </a>
 </p>
 
@@ -150,10 +150,10 @@
   <table style="width:100%;" align="center">
     <tr>
         <td style="width:100%; text-align:center;">
-            <img src="https://wakatime.com/share/@Khusniddin/681132bf-28b1-4917-a13c-d8eb1ee9a106.svg" style="width:100%;"/>
+            <img src="https://wakatime.com/share/@otamurod/681132bf-28b1-4917-a13c-d8eb1ee9a106.svg" style="width:100%;"/>
         </td>
         <td style="width:100%; text-align:center;">
-            <img src="https://wakatime.com/share/@Khusniddin/e426474e-26a6-4737-9a69-e8a5f141d0b7.svg" style="width:100%;"/>
+            <img src="https://wakatime.com/share/@otamurod/e426474e-26a6-4737-9a69-e8a5f141d0b7.svg" style="width:100%;"/>
         </td>
     </tr>
 </table>
