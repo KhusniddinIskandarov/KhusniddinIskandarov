@@ -40,10 +40,3 @@
 ![Khusniddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhusniddinIskandarov&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&layout=compact&theme=tokyonight)
 
----
-
-## 📬 Contact
-Feel free to reach out for **collaboration or job opportunities**!  
-- 📧 [youremail@domain.com](mailto:kh.sh.iskandarov@gmail.com)  
-- 💬 [Telegram](https://t.me/agastrimboy)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/%D1%85%D1%83%D1%81%D0%BD%D0%B8%D0%B4%D0%B4%D0%B8%D0%BD-%D0%B8%D1%81%D0%BA%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D0%BE%D0%B2-0b795b357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
