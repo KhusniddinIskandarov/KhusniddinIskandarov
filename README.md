@@ -1,4 +1,4 @@
-# 🚀 Frontend Engineer delivering scalable, performant, and well-documented web applications with a focus on modular architecture, clean code, and reusable components.
+## 🚀 Frontend Engineer delivering scalable, performant, and well-documented web applications with a focus on modular architecture, clean code, and reusable components.
 
 ---
 
