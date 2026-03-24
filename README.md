@@ -43,21 +43,31 @@
 
 <h3 align="center">Tools:</h3>
 <p align="center"> 
-  <!-- Build Tools -->
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40"/>
+  <!-- IDE & Version Control (asosiy) -->
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  </a>
+
+  <!-- Classic Build Tools (eski, foundational) -->
+  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40"/>
   </a>
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="Babel" width="40" height="40"/>
   </a>
-  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40"/>
-  </a>
   <a href="https://rollupjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/100644?s=200&v=4" alt="Rollup" width="40" height="40"/>
+    <img src="https://rollupjs.org/logo.svg" alt="Rollup" width="40" height="40"/>
   </a>
   <a href="https://parceljs.org/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/30317862?s=200&v=4" alt="Parcel" width="40" height="40"/>
+    <img src="https://parceljs.org/logo.svg" alt="Parcel" width="40" height="40"/>
+  </a>
+
+  <!-- Modern Build Tools (yangi) -->
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+    <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40"/>
   </a>
 
   <!-- Linting & Config -->
@@ -97,14 +107,6 @@
   </a>
   <a href="https://testing-library.com/" target="_blank" rel="noreferrer">
     <img src="https://testing-library.com/img/octopus-128x128.png" alt="Testing Library" width="40" height="40"/>
-  </a>
-
-  <!-- Tools -->
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   </a>
 </p>
 
