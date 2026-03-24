@@ -1,7 +1,5 @@
 ## 🚀 Frontend Engineer delivering scalable, performant, and well-documented web applications with a focus on modular architecture, clean code, and reusable components.
 
----
-
 ## 🧠 About Me  
 
 | 💻 Strong foundation in **HTML, CSS, JavaScript (ES6+)** | 🎨 Skilled in **TailwindCSS + modern UI styling** |
