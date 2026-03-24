@@ -33,21 +33,17 @@
   
 </p>
 
-<h3 align="center">Tools (Workflow & Utilities)</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="Babel" width="40" height="40"/>
-  <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="ESLint" width="40" height="40"/>
-  <img src="https://prettier.io/icon.png" alt="Prettier" width="40" height="40"/>
-  <img src="https://editorconfig.org/logo.png" alt="EditorConfig" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/4060?s=200&v=4" alt="Husky" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/112214?s=200&v=4" alt="lint-staged" width="40" height="40"/>
-  <img src="https://swiperjs.com/images/swiper-logo.svg" alt="Swiper" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/12637703?s=200&v=4" alt="ScrollReveal" width="40" height="40"/>
-</p>
+<h3 align="center">Tools: (Workflow & Utilities)</h3><p align="center">
+  <!-- IDE & Version Control (asosiy) -->
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+<!-- Classic Build Tools (eski, foundational) -->
+<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40"/></a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="Babel" width="40" height="40"/></a>
+<!-- Modern Build Tools (yangi) -->
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40"/></a>
+<!-- Linting & Config -->
+<a href="https://eslint.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="ESLint" width="40" height="40"/></a><a href="https://prettier.io/" target="_blank" rel="noreferrer"><img src="https://prettier.io/icon.png" alt="Prettier" width="40" height="40"/></a><a href="https://github.com/prettier/eslint-config-prettier" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/25822731?s=200&v=4" alt="eslint-config-prettier" width="40" height="40"/></a><a href="https://typicode.github.io/husky/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/4060?s=200&v=4" alt="Husky" width="40" height="40"/></a><a href="https://github.com/okonet/lint-staged" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/112214?s=200&v=4" alt="lint-staged" width="40" height="40"/></a><a href="https://editorconfig.org/" target="_blank" rel="noreferrer"><img src="https://editorconfig.org/logo.png" alt="EditorConfig" width="40" height="40"/></a>
+<!-- UI Libraries -->
+<a href="https://swiperjs.com/" target="_blank" rel="noreferrer"><img src="https://swiperjs.com/images/swiper-logo.svg" alt="Swiper" width="40" height="40"/></a><a href="https://scrollrevealjs.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/12637703?s=200&v=4" alt="ScrollReveal" width="40" height="40"/></a>---
 
 ---
 
