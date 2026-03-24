@@ -27,7 +27,7 @@
 
 ---
 
-## 🛠️ Tech stack:
+## 🛠️ Tech stack: (Languages & Frameworks)
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&gradient=red,orange"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&gradient=blue,cyan"/>
@@ -41,7 +41,7 @@
 
 ---
 
-<h3 align="center">Tools:</h3>
+<h3 align="center">Tools: (Workflow & Utilities)</h3>
 <p align="center"> 
   <!-- IDE & Version Control (asosiy) -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
