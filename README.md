@@ -113,20 +113,6 @@
   </a>
 </p>
 
-<!-- Image -->
-<p align="center">
-  <img height="70em" src="http://cdn.onlinewebfonts.com/svg/img_529337.png">
-</p>
-
-<!-- Total time coded -->
-<p align="center">
-  <h2 align="center">📊 Total time coded </h2>
-</p>
-
-<p align="center">
-<a href="https://wakatime.com/badge/github/KhusniddinIskandarov/20-small-beginner-exercises-in-JavaScript"><img src="https://wakatime.com/badge/github/KhusniddinIskandarov/20-small-beginner-exercises-in-JavaScript.svg" alt="wakatime"></a>
-</p>
-
 ---
 
 ## 📊 GitHub Stats
