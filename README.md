@@ -14,7 +14,7 @@
 
 | 🌐 Connect | 🛠️ Featured Projects |
 |-----------|--------------------|
-| - 🌎 [Portfolio](https://yourportfolio.com)<br>- 💼 [LinkedIn](https://www.linkedin.com/in/%D1%85%D1%83%D1%81%D0%BD%D0%B8%D0%B4%D0%B4%D0%B8%D0%BD-%D0%B8%D1%81%D0%BA%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D0%BE%D0%B2-0b795b357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)<br>- 📧 [Email](mailto:kh.sh.iskandarov@gmail.com)<br>- 💬 [Telegram](https://t.me/agastrimboy) | - 🔗 [🌱 Plant Website](https://plants7.vercel.app) — A modern, responsive, and animation-rich frontend project. 📂 https://github.com/KhusniddinIskandarov/plant-website <br>- 🔗 [Portfolio](https://github.com/yourusername/portfolio) — Built with **React & TailwindCSS**, responsive and modern design. |
+| - 🌎 [Portfolio](https://yourportfolio.com)<br>- 💼 [LinkedIn](https://www.linkedin.com/in/%D1%85%D1%83%D1%81%D0%BD%D0%B8%D0%B4%D0%B4%D0%B8%D0%BD-%D0%B8%D1%81%D0%BA%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D0%BE%D0%B2-0b795b357?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)<br>- 📧 [Email](mailto:kh.sh.iskandarov@gmail.com)<br>- 💬 [Telegram](https://t.me/agastrimboy) | - 🔗 [🌱 Plant Website](https://plants7.vercel.app) — A modern, responsive, and animation-rich frontend project. 📂 [plant-website](https://github.com/KhusniddinIskandarov/plant-website)<br>- 🔗 [Portfolio](https://github.com/yourusername/portfolio) — Built with **React & TailwindCSS**, responsive and modern design. |
 
 ---
 
