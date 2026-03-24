@@ -40,10 +40,10 @@
 ![Khusniddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhusniddinIskandarov&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&layout=compact&theme=tokyonight)
 
-## 🚀 Tech Stack
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## 🚀 Tech Highlights
+![Bootstrap Repo](https://github-readme-stats.vercel.app/api/pin/?username=KhusniddinIskandarov&repo=bootstrap-project&theme=tokyonight)
+![React Repo](https://github-readme-stats.vercel.app/api/pin/?username=KhusniddinIskandarov&repo=react-project&theme=tokyonight)
+![Tailwind Repo](https://github-readme-stats.vercel.app/api/pin/?username=KhusniddinIskandarov&repo=tailwind-project&theme=tokyonight)
 
 ---
 
