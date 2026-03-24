@@ -41,12 +41,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&layout=compact&theme=tokyonight)
 
 ---
-
-## 🎯 Goals
-
-* Become a strong Frontend Engineer
-* Work on real-world scalable projects
-* Contribute to open source
-* Reach **HARVARD-level engineering mindset**
-
----
