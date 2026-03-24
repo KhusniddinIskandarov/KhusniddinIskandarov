@@ -72,8 +72,16 @@
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   </a>
+
+  <!-- Build Tools -->
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
     <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40"/>
+  </a>
+  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="Babel" width="40" height="40"/>
+  </a>
+  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40"/>
   </a>
 
   <!-- Tools -->
