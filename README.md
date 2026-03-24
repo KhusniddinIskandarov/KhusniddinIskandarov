@@ -1,4 +1,4 @@
-## 🚀 Frontend Developer focused on building clean, scalable, and user-friendly web applications.
+## 🚀 Frontend Engineer delivering scalable, performant, and well-documented web applications with a focus on modular architecture, clean code, and reusable components.
 
 ---
 
