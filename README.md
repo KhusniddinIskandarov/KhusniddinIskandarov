@@ -40,11 +40,6 @@
 
 ---
 
-## 📌 About Me
-I am a frontend developer passionate about building **interactive and user-friendly web apps** using **React, TailwindCSS, and modern JavaScript**. I constantly improve my skills and contribute to open-source projects.  
-
----
-
 ## 📬 Contact
 Feel free to reach out for **collaboration or job opportunities**!  
 - 📧 [youremail@domain.com](mailto:kh.sh.iskandarov@gmail.com)  
