@@ -138,7 +138,7 @@
 <h2 align="center">📊 Weekly Development Breakdown</h2>
 
 <a href="https://wakatime.com/@KhusniddinIskandarov">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KhusniddinIskandarov&theme=radical" alt="Wakatime Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@KhusniddinIskandarov&theme=radical" alt="Wakatime Stats"/>
 </a>
 
 <!-- Languages & Coding Activity -->
