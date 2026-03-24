@@ -11,7 +11,8 @@
 </p>
 
 <!-- Intro -->
-<h1 align="center">Hi, I'm Husniddin — Frontend Developer  <h3 align="center">Focused on building clean, scalable, and user-friendly web applications.</h3> </h1>
+<h1 align="center">Hi, I'm Husniddin — Frontend Developer</h1>
+ <h3 align="center">Focused on building clean, scalable, and user-friendly web applications.</h3>
 
 
 ---
