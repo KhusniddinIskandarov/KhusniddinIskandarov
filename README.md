@@ -1,6 +1,3 @@
-<!-- GitHub Stats -->
-  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" alt="GitHub Readme Stats" />
-
 <!-- Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome+👋&height=100&section=header"/>
