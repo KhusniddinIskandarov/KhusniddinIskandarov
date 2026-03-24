@@ -10,9 +10,9 @@
 
 ---
 
-<h3 align="center">
+<h2 align="center">
  💡 Feel free to reach out for collaboration or job opportunities!
-</h3>
+</h2>
 
 | 🌐 Connect | 🛠️ Featured Projects |
 |-----------|--------------------|
