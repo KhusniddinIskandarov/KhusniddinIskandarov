@@ -40,10 +40,10 @@
 ![Khusniddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhusniddinIskandarov&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&layout=compact&theme=tokyonight)
 
-## 🚀 Tech Highlights
-![Bootstrap Repo](https://github-readme-stats.vercel.app/api/pin/?username=KhusniddinIskandarov&repo=bootstrap-project&theme=tokyonight)
-![React Repo](https://github-readme-stats.vercel.app/api/pin/?username=KhusniddinIskandarov&repo=react-project&theme=tokyonight)
-![Tailwind Repo](https://github-readme-stats.vercel.app/api/pin/?username=KhusniddinIskandarov&repo=tailwind-project&theme=tokyonight)
+## 🚀 Frameworks & Libraries
+![Bootstrap](https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&layout=compact&theme=tokyonight&langs_count=1&custom_title=Bootstrap)
+![React](https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&layout=compact&theme=tokyonight&langs_count=1&custom_title=React)
+![TailwindCSS](https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&layout=compact&theme=tokyonight&langs_count=1&custom_title=TailwindCSS)
 
 ---
 
