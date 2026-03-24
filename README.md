@@ -111,12 +111,7 @@
   <a href="https://github.com/KhusniddinIskandarov">
     <img src="https://komarev.com/ghpvc/?username=KhusniddinIskandarov&&style=for-the-badge" alt="Profile Views" />
   </a>
-
-  <a href="https://github.com/KhusniddinIskandarov?tab=followers">
-    <img src="https://img.shields.io/github/followers/KhusniddinIskandarov?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub Followers" />
-  </a>  
 </p>
-
 
 <!-- Image -->
 <p align="center">
@@ -132,7 +127,7 @@
 <a href="https://wakatime.com/badge/github/KhusniddinIskandarov/20-small-beginner-exercises-in-JavaScript"><img src="https://wakatime.com/badge/github/KhusniddinIskandarov/20-small-beginner-exercises-in-JavaScript.svg" alt="wakatime"></a>
 </p>
 
-  ---
+---
 
 ## 📊 GitHub Stats
 ![Khusniddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhusniddinIskandarov&show_icons=true&theme=tokyonight)
