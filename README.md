@@ -10,7 +10,7 @@
 
 ---
 
-<h3>
+<h3 align="center">
  💡 Feel free to reach out for collaboration or job opportunities!
 </h3>
 
