@@ -58,12 +58,6 @@
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="Babel" width="40" height="40"/>
   </a>
-  <a href="https://rollupjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://rollupjs.org/logo.svg" alt="Rollup" width="40" height="40"/>
-  </a>
-  <a href="https://parceljs.org/" target="_blank" rel="noreferrer">
-    <img src="https://parceljs.org/logo.svg" alt="Parcel" width="40" height="40"/>
-  </a>
 
   <!-- Modern Build Tools (yangi) -->
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
