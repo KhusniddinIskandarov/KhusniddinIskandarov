@@ -4,7 +4,7 @@
 </p>
 
 <!-- Intro -->
-<h1 align="text-xl center">Hi, I'm Husniddin — Frontend Developer</h1>
+<h1 align="center">Hi, I'm Husniddin — Frontend Developer</h1>
 <h4 align="center">Focused on building clean, scalable, and user-friendly web applications.</h4>
 
 ---
