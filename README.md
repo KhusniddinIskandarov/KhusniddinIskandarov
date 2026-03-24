@@ -26,7 +26,9 @@
 * 🧩 Focused on **modular architecture & clean code**
 * 📈 Continuously improving and learning advanced frontend concepts
 
-### 💡 Feel free to reach out for collaboration or job opportunities!
+<div align="center">
+  ### 💡 Feel free to reach out for collaboration or job opportunities!
+</div>
 
 | 🌐 Connect | 🛠️ Featured Projects |
 |-----------|--------------------|
