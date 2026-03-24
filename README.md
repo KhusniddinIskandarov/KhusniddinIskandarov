@@ -92,18 +92,6 @@
     <img src="https://avatars.githubusercontent.com/u/12637703?s=200&v=4" alt="ScrollReveal" width="40" height="40"/>
   </a>
 
-  <!-- Testing Tools -->
-  <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/>
-  </a>
-  <a href="https://vitest.dev/" target="_blank" rel="noreferrer">
-    <img src="https://vitest.dev/logo.svg" alt="Vitest" width="40" height="40"/>
-  </a>
-  <a href="https://testing-library.com/" target="_blank" rel="noreferrer">
-    <img src="https://testing-library.com/img/octopus-128x128.png" alt="Testing Library" width="40" height="40"/>
-  </a>
-</p>
-
 ---
 
 ## 📊 GitHub Stats
