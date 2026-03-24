@@ -55,4 +55,10 @@
 ![Khusniddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhusniddinIskandarov&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&layout=compact&theme=tokyonight)
 
+<!-- Contribution Diagram -->
+<p align="center">
+  <h2 align="center">Contribution Diagram</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=otamurod&theme=dracula" alt="Otamurod's Github Activity Graph">
+</p>
+
 ---
