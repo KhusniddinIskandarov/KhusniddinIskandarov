@@ -134,8 +134,31 @@
   </a>
 </p>
 
-<figure><embed src="https://wakatime.com/share/@KhusniddinIskandarov/915428bc-d515-4594-bc1e-add6b1821618.svg"></embed></figure>
+<!-- Weekly development breakdown -->
+<p align="center">
+  <h2 align="center">📊 Weekly Development Breakdown</h2>
+</p>
 
+<!-- WakaTime Stats Card -->
+<p align="center">
+  <a href="https://wakatime.com/@KhusniddinIskandarov">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KhusniddinIskandarov&theme=radical" alt="Husniddin's WakaTime Stats">
+  </a>
+</p>
+
+<!-- Languages & Coding Activity -->
+<p align="center">
+  <table style="width:100%;" align="center">
+    <tr>
+        <td style="width:100%; text-align:center;">
+            <img src="https://wakatime.com/share/@KhusniddinIskandarov/YOUR-FIRST-CHART-ID.svg" style="width:100%;"/>
+        </td>
+        <td style="width:100%; text-align:center;">
+            <img src="https://wakatime.com/share/@KhusniddinIskandarov/YOUR-SECOND-CHART-ID.svg" style="width:100%;"/>
+        </td>
+    </tr>
+  </table>
+</p>
   ---
 
 ## 📊 GitHub Stats
