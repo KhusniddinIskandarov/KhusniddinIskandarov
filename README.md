@@ -43,8 +43,7 @@
 
 ---
 
-<!-- Languages and Tools -->
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Tools:</h3>
 <p align="center"> 
   <!-- Build Tools -->
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
@@ -55,6 +54,12 @@
   </a>
   <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40"/>
+  </a>
+  <a href="https://rollupjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/100644?s=200&v=4" alt="Rollup" width="40" height="40"/>
+  </a>
+  <a href="https://parceljs.org/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/30317862?s=200&v=4" alt="Parcel" width="40" height="40"/>
   </a>
 
   <!-- Linting & Config -->
@@ -85,9 +90,23 @@
     <img src="https://avatars.githubusercontent.com/u/12637703?s=200&v=4" alt="ScrollReveal" width="40" height="40"/>
   </a>
 
+  <!-- Testing Tools -->
+  <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/>
+  </a>
+  <a href="https://vitest.dev/" target="_blank" rel="noreferrer">
+    <img src="https://vitest.dev/logo.svg" alt="Vitest" width="40" height="40"/>
+  </a>
+  <a href="https://testing-library.com/" target="_blank" rel="noreferrer">
+    <img src="https://testing-library.com/img/octopus-128x128.png" alt="Testing Library" width="40" height="40"/>
+  </a>
+
   <!-- Tools -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   </a>
 </p>
 
