@@ -1,4 +1,4 @@
-# 🚀 Frontend Developer focused on building clean, scalable, and user-friendly web applications.
+## 🚀 Frontend Developer focused on building clean, scalable, and user-friendly web applications.
 
 ---
 
