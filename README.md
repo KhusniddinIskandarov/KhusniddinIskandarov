@@ -141,8 +141,8 @@
 
 <!-- WakaTime Stats Card -->
 <p align="center">
-  <a href="https://wakatime.com/@kh.sh.iskandarov">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KhusniddinIskandarov&theme=radical" alt="Husniddin's WakaTime Stats">
+  <a href="https://wakatime.com/@KhusniddinIskandarov">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KhusniddinIskandarov&theme=radical" alt="Khusniddin's WakaTime Stats">
   </a>
 </p>
 
@@ -151,10 +151,10 @@
   <table style="width:100%;" align="center">
     <tr>
         <td style="width:100%; text-align:center;">
-            <img src="https://wakatime.com/share/@kh.sh.iskandarov/YOUR-FIRST-CHART-ID.svg" style="width:100%;"/>
+            <img src="https://wakatime.com/share/@KhusniddinIskandarov/YOUR-FIRST-CHART-ID.svg" style="width:100%;"/>
         </td>
         <td style="width:100%; text-align:center;">
-            <img src="https://wakatime.com/share/@kh.sh.iskandarovv/YOUR-SECOND-CHART-ID.svg" style="width:100%;"/>
+            <img src="https://wakatime.com/share/@KhusniddinIskandarov/YOUR-SECOND-CHART-ID.svg" style="width:100%;"/>
         </td>
     </tr>
   </table>
