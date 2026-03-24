@@ -137,12 +137,9 @@
 <!-- Weekly Development Breakdown -->
 <h2 align="center">📊 Weekly Development Breakdown</h2>
 
-<p align="center">
-  <!-- Wakatime Stats Card -->
-  <a href="https://wakatime.com/@KhusniddinIskandarov">
+<a href="https://wakatime.com/@KhusniddinIskandarov">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KhusniddinIskandarov&theme=radical" alt="Wakatime Stats"/>
 </a>
-</p>
 
 <!-- Languages & Coding Activity -->
 <img src="https://wakatime.com/share/@KhusniddinIskandarov/first-graph-id.svg" style="width:100%;"/>
