@@ -1,8 +1,8 @@
-# 🚀 Frontend Developer focused on building clean, scalable, and user-friendly web applications.
+## 🚀 Frontend Developer focused on building clean, scalable, and user-friendly web applications.
 
 ---
 
-## 🧠 About Me
+### 🧠 About Me
 
 * 💻 Strong foundation in **HTML, CSS, JavaScript (ES6+)**
 * 🎨 Skilled in **TailwindCSS + modern UI styling**
@@ -12,7 +12,7 @@
 
 ---
 
-####                             Feel free to reach out for collaboration or job opportunities!
+# Feel free to reach out for collaboration or job opportunities!
 
 | 🌐 Connect | 🛠️ Featured Projects |
 |-----------|--------------------|
