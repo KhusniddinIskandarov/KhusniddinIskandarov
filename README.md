@@ -22,9 +22,9 @@
 
 ---
 
-<h2 align="center">
+<h1 align="center">
  💡 Feel free to reach out for collaboration or job opportunities!
-</h2>
+</h1>
 
 | 🌐 Connect | 🛠️ Featured Projects |
 |-----------|--------------------|
