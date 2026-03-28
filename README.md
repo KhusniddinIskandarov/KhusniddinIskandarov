@@ -75,18 +75,9 @@
 ---
 
 ## 📊 GitHub Stats
-![KhusniddinIskandarov's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhusniddinIskandarov&show_icons=true&theme=tokyonight)
+![Khusniddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhusniddinIskandarov&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&layout=compact&theme=tokyonight)
 
-<!-- Contribution Diagram -->
-<p align="center">
-  <h2 align="center">Contribution Diagram</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhusniddinIskandarov&theme=dracula" alt="Khusniddin's Github Activity Graph">
-</p>
 
-<!-- Closing statement -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Take+Care&height=100&section=footer"/>
-</p>
 
 ---
