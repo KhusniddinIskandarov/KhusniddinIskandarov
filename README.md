@@ -75,8 +75,8 @@
 ---
 
 ## 📊 GitHub Stats
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KhusniddinIskandarov&show_icons=true&theme=tokyonight&count_private=true"/>
 
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KhusniddinIskandarov&show_icons=true&theme=tokyonight&count_private=true"/>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&layout=compact&theme=tokyonight)
 
 ---
