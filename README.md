@@ -85,19 +85,31 @@
   </a>
 </p>
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" alt="GitHub Readme Stats" />
-  <h2 align="center">GitHub Stats</h2>
-  <a href="https://github.com/otamurod">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=otamurod&show_icons=true&theme=tokyonight&count_private=true"/>
-    
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&layout=compact&theme=tokyonight")  
-  </a>
+
+
+    
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <!-- Profil overview -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhusniddinIskandarov&theme=tokyonight" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <!-- Commit streak -->
+  <img src="https://streak-stats.demolab.com?user=KhusniddinIskandarov&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- Repo stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KhusniddinIskandarov&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KhusniddinIskandarov&theme=tokyonight" alt="Most Commit Language" />
 </p>
 
 ---
-
 <!-- Contribution Diagram -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhusniddinIskandarov&theme=dracula" alt="Khusniddin's Github Activity Graph">
