@@ -76,7 +76,7 @@
 
 ## 📊 GitHub Stats
 
-  ![Khusniddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhusniddinIskandarov&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhusniddinIskandarov&show_icons=true&theme=tokyonight&cache_seconds=86400)
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&layout=compact&theme=tokyonight)
 
