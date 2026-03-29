@@ -78,18 +78,15 @@
   
 <!-- GitHub Stats -->
 <p align="center">
-  <a href="https://github.com/otamurod">
+  <a href="https://github.com/KhusniddinIskandarov">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KhusniddinIskandarov&show_icons=true&theme=tokyonight&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&show_icons=true&theme=tokyonight&layout=compact" alt="" />
   </a>
 </p>
 
 ---
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhusniddinIskandarov\&show_icons=true\&theme=tokyonight)
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&layout=compact&theme=tokyonight)
 
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KhusniddinIskandarov&theme=tokyonight)
 
 <!-- Contribution Diagram -->
 <p align="center">
