@@ -80,7 +80,9 @@
 <p align="center">
   <a href="https://github.com/KhusniddinIskandarov">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KhusniddinIskandarov&show_icons=true&theme=tokyonight&count_private=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&layout=compact&theme=tokyonight&cache_seconds=3600" alt="Top Languages" />    
+    
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&layout=compact&theme=tokyonight&cache_seconds=3600" alt="Top Languages" />    
+    
   </a>
 </p>
 
