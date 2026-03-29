@@ -100,15 +100,6 @@
 
 ## 📊 GitHub Stats  
 
----
-
-## 📊 GitHub Stats  
-
-
-
-<!-- Commit streak -->
-![GitHub Streak](https://streak-stats.demolab.com?user=KhusniddinIskandarov&theme=tokyonight&date_format=j%20M%5B%20Y%5D)
-
 <!-- Profil overview -->
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhusniddinIskandarov&theme=tokyonight)
 
