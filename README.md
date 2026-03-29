@@ -78,7 +78,7 @@
   
   <a href="https://github.com/KhusniddinIskandarov">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KhusniddinIskandarov&show_icons=true&theme=tokyonight&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&show_icons=true&theme=tokyonight&layout=compact" alt="otamurod" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&show_icons=true&theme=tokyonight&layout=compact" alt="KhusniddinIskandarov" />
   </a>
 
 <!-- Contribution Diagram -->
