@@ -93,21 +93,11 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <!-- Profil overview -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhusniddinIskandarov&theme=tokyonight" alt="Profile Details" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=KhusniddinIskandarov&show_icons=true&hide_title=true&theme=radical)
 
-<p align="center">
-  <!-- Commit streak -->
-  <img src="https://streak-stats.demolab.com?user=KhusniddinIskandarov&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</p>
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&layout=compact&theme=radical&hide_border=true)
 
-<p align="center">
-  <!-- Repo stats -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KhusniddinIskandarov&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KhusniddinIskandarov&theme=tokyonight" alt="Most Commit Language" />
-</p>
+![Streak](https://streak-stats.demolab.com?user=KhusniddinIskandarov&theme=radical&hide_border=true)
 
 ---
 <!-- Contribution Diagram -->
