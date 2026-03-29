@@ -79,7 +79,10 @@
 <!-- GitHub Stats -->
 <p align="center">
   <a href="https://github.com/KhusniddinIskandarov">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KhusniddinIskandarov&show_icons=true&theme=tokyonight&count_private=true"/>   
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KhusniddinIskandarov&show_icons=true&theme=tokyonight&count_private=true"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&layout=compact&theme=tokyonight" alt="Languages" />
+    
   </a>
 </p> 
     
@@ -89,7 +92,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KhusniddinIskandarov&show_icons=true&theme=tokyonight" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&layout=compact&theme=tokyonight" alt="Languages" />
 </p>
 
 <p align="center">
