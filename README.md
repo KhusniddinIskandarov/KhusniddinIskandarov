@@ -90,18 +90,6 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KhusniddinIskandarov&theme=tokyonight" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KhusniddinIskandarov&theme=tokyonight&utcOffset=5" alt="Productive Time" />
-</p>
-
----
-
-## 📊 GitHub Stats  
-
 <!-- Umumiy statistikalar -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhusniddinIskandarov&show_icons=true&theme=tokyonight&cache_seconds=3600)
 
