@@ -78,11 +78,9 @@
   
 <!-- GitHub Stats -->
 <p align="center">
-  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" alt="GitHub Readme Stats" />
-  <h2 align="center">GitHub Stats</h2>
   <a href="https://github.com/KhusniddinIskandarov">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KhusniddinIskandarov&show_icons=true&theme=tokyonight&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&show_icons=true&theme=tokyonight&layout=compact" alt="KhusniddinIskandarov" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&show_icons=true&theme=tokyonight&layout=compact" alt="Khusniddin" />
   </a>
 </p>
 
