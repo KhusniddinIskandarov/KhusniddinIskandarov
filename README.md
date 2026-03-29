@@ -104,11 +104,7 @@
 
 ## 📊 GitHub Stats  
 
-<!-- Umumiy statistikalar -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhusniddinIskandarov&show_icons=true&theme=tokyonight&cache_seconds=3600)
 
-<!-- Eng ko‘p ishlatilgan tillar -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&layout=compact&theme=tokyonight&cache_seconds=3600)
 
 <!-- Commit streak -->
 ![GitHub Streak](https://streak-stats.demolab.com?user=KhusniddinIskandarov&theme=tokyonight&date_format=j%20M%5B%20Y%5D)
