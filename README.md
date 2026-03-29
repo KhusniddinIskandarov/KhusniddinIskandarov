@@ -76,7 +76,7 @@
 
 ## 📊 GitHub Stats
 
-  ![Khusniddin's GitHub stats](./assets/github-stats.png)
+  ![Khusniddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhusniddinIskandarov&show_icons=true&theme=tokyonight)
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&layout=compact&theme=tokyonight)
   
