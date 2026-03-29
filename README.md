@@ -88,14 +88,6 @@
     
 ---
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KhusniddinIskandarov&theme=tokyonight&utcOffset=5" alt="Productive Time" />
-</p>
-
----
-
-## 📊 GitHub Stats  
-
 <!-- Profil overview -->
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhusniddinIskandarov&theme=tokyonight)
 
