@@ -89,7 +89,12 @@
 ---
 
 <!-- Profil overview -->
+<p align="center">
+  <a href="https://github.com/KhusniddinIskandarov">
+    
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhusniddinIskandarov&theme=tokyonight)
+  </a>
+</p>
 
 ---
 
