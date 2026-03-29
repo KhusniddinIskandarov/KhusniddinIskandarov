@@ -81,10 +81,11 @@
   <a href="https://github.com/KhusniddinIskandarov">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KhusniddinIskandarov&show_icons=true&theme=tokyonight&count_private=true"/>
     
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&layout=compact&theme=tokyonight")
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&layout=compact&theme=tokyonight&cache_seconds=3600" alt="Top Languages" />
   </a>
 </p>
 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&layout=compact&theme=tokyonight")
 ## 📊 GitHub Stats  
 
 <p align="center">
@@ -94,13 +95,9 @@
 
 <p align="center">
   <!-- Eng ko‘p ishlatilgan tillar -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&layout=compact&theme=tokyonight&cache_seconds=3600" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <!-- Faollik grafigi -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhusniddinIskandarov&theme=tokyonight" alt="GitHub Activity Graph" />
-</p>
+
 
 ---
 
