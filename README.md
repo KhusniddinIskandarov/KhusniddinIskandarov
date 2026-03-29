@@ -75,8 +75,7 @@
 ---
 
 <!-- GitHub Stats -->
-  ## 📊 GitHub Stats
-  
+## 📊 GitHub Stats  
 <p align="center">
   <a href="https://github.com/KhusniddinIskandarov">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KhusniddinIskandarov&show_icons=true&theme=tokyonight&count_private=true"/>
