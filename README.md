@@ -78,9 +78,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=KhusniddinIskandarov&theme=tokyonight)
 
-- 🔭 Currently building modern frontend projects
-- ⚡ Focus: Clean code & scalable architecture
-- 🎯 Goal: Work at top-level companies (HARVARD level 🚀)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhusniddinIskandarov&theme=tokyonight)
 
 ---
 
