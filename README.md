@@ -79,25 +79,26 @@
 <!-- GitHub Stats -->
 <p align="center">
   <a href="https://github.com/KhusniddinIskandarov">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KhusniddinIskandarov&show_icons=true&theme=tokyonight&count_private=true"/>
-    
-    
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KhusniddinIskandarov&show_icons=true&theme=tokyonight&count_private=true"/>   
   </a>
-</p>
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&layout=compact&theme=tokyonight")  
-
-
+</p> 
     
 ---
 
 ## 📊 GitHub Stats  
 
-![Stats](https://github-readme-stats.vercel.app/api?username=KhusniddinIskandarov&show_icons=true&hide_title=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KhusniddinIskandarov&show_icons=true&theme=tokyonight" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&layout=compact&theme=tokyonight" alt="Languages" />
+</p>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&layout=compact&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KhusniddinIskandarov&theme=tokyonight" alt="Streak Stats" />
+</p>
 
-![Streak](https://streak-stats.demolab.com?user=KhusniddinIskandarov&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KhusniddinIskandarov&theme=tokyonight&utcOffset=5" alt="Productive Time" />
+</p>
 
 ---
 <!-- Contribution Diagram -->
