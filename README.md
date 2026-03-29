@@ -76,7 +76,7 @@
 
 ## 📊 GitHub Stats
 
-  <img src="https://github-readme-stats.vercel.app/api?username=KhusniddinIskandarov&show_icons=true&theme=tokyonight&cache_seconds=60" height="180"/>
+ ![Khusniddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KhusniddinIskandarov&show_icons=true&theme=tokyonight&cache_seconds=60)
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&layout=compact&theme=tokyonight)
   
