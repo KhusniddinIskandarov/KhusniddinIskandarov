@@ -75,14 +75,13 @@
 ---
 
 ## 📊 GitHub Stats
+
 ![Khusniddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=noworneverallornothing1-droid&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noworneverallornothing1-droid&layout=compact&theme=tokyonight)
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=KhusniddinIskandarov&theme=tokyonight" />
-</p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhusniddinIskandarov&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=KhusniddinIskandarov&theme=tokyonight" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhusniddinIskandarov&theme=tokyonight" height="170"/>
 </p>
 
 ---
