@@ -78,16 +78,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KhusniddinIskandarov&show_icons=true&theme=tokyonight&cache_seconds=60" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&layout=compact&theme=tokyonight&cache_seconds=60" height="180"/>
-</p>
-
-<p align="center">
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&layout=compact&theme=tokyonight&cache_seconds=60)
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&layout=compact&theme=tokyonight)
 
-  
   <img src="https://streak-stats.demolab.com?user=KhusniddinIskandarov&theme=tokyonight" />
 </p>
   
