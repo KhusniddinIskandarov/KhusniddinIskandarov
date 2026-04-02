@@ -75,12 +75,9 @@
 ---
 
 <!-- GitHub Stats -->
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhusniddinIskandarov&show_icons=true&theme=tokyonight" height="180em"/>
-
+## 🛠 Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&layout=compact&theme=tokyonight)
-</p>
+
 
 
 
