@@ -25,6 +25,9 @@
 <h1 align="center">
  💡 Feel free to reach out for collaboration or job opportunities!
 </h1>
+<a href="https://www.instagram.com/username" target="_blank">
+  <img src="https://copilot.microsoft.com/th/id/BCO.08ced3ca-9724-4789-80a5-61e52b90d65f.png" alt="Instagram" width="40" height="40">
+</a>
 
 | 🌐 Connect | 🛠️ Featured Projects |
 |-----------|--------------------|
