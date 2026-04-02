@@ -75,15 +75,13 @@
 ---
 
 <!-- GitHub Stats -->
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KhusniddinIskandarov&show_icons=true&theme=gruvbox)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&layout=compact&theme=gruvbox)
-
-
-
-
-
+## 📊 GitHub Stats  
+<p align="center">
+  <a href="https://github.com/KhusniddinIskandarov">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KhusniddinIskandarov&show_icons=true&theme=tokyonight&count_private=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&layout=compact&theme=tokyonight" alt="Languages"/>  
+  </a>
+</p> 
     
 <!-- Contribution Diagram -->
 <p align="center">
