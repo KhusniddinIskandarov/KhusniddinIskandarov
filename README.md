@@ -28,9 +28,7 @@
 
 | 🌐 Connect | 🛠️ Featured Projects |
 |-----------|--------------------|
-| 🌎 [Portfolio](https://yourportfolio.com)<br> 💼 [LinkedIn](https://www.linkedin.com/in/khusniddiniskandarov)<br> <a href="https://www.instagram.com/username" target="_blank">
-  <img src="https://copilot.microsoft.com/th/id/BCO.08ced3ca-9724-4789-80a5-61e52b90d65f.png" alt="Instagram" width="40" height="40">
-</a> <br> 📧 [Email](mailto:kh.sh.iskandarov@gmail.com)<br> 💬 [Telegram](https://t.me/khusniddiniskandarov) | - 🔗 [🌱 Plants Website](https://plants7.vercel.app)  ———> 📂 https://github.com/KhusniddinIskandarov/plant-website<br>- 🔗 [Portfolio](https://github.com/yourusername/portfolio) — Built with **React & TailwindCSS**, responsive and modern design. |
+| 🌎 [Portfolio](https://yourportfolio.com)<br> 💼 [LinkedIn](https://www.linkedin.com/in/khusniddiniskandarov)<br> 📧 [Email](mailto:kh.sh.iskandarov@gmail.com)<br> 💬 [Telegram](https://t.me/khusniddiniskandarov) | - 🔗 [🌱 Plants Website](https://plants7.vercel.app)  ———> 📂 https://github.com/KhusniddinIskandarov/plant-website<br>- 🔗 [Portfolio](https://github.com/yourusername/portfolio) — Built with **React & TailwindCSS**, responsive and modern design. |
 
 ---
 
