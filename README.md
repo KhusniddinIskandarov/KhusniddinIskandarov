@@ -79,8 +79,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KhusniddinIskandarov&show_icons=true&theme=tokyonight" height="180em"/>
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&layout=compact&theme=tokyonight)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhusniddinIskandarov&layout=compact&theme=tokyonight)
 </p>
 
 
