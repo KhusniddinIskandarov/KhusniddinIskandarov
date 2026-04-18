@@ -61,7 +61,7 @@
    <!-- Linting & Config -->
   <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white" />
   <img src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black" />
-  <img src="https://img.shields.io/badge/eslint--config--prettier-000000logo=eslint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/eslint--config--prettier-000000?logo=eslint&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/Husky-000000?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Lint--staged-000000?logo=github&logoColor=white" />
