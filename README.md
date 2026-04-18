@@ -47,63 +47,32 @@
 
 <h3 align="center">Tools: (Workflow & Utilities)</h3>
 <p align="center">
-  <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:10px;">
-  <!-- IDE & Version Control (asosiy) -->
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  </a>
+  <!-- IDE & Version Control -->
+  <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white" /></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" /></a>
+
   <!-- Runtime & Package Management -->
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.npmjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
-  </a>
-  <!-- Classic Build Tools -->
-  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" height="40"/>
-  </a>
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/babel/babel-original.svg" alt="Babel" width="40" height="40"/>
-  </a>
-  <!-- Modern Build Tools -->
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" height="40"/>
-  </a>
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" /></a>
+  <a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white" /></a>
+
+  <!-- Build Tools -->
+  <a href="https://webpack.js.org/"><img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black" /></a>
+  <a href="https://babeljs.io/"><img src="https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=black" /></a>
+  <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" /></a>
+
   <!-- Linting & Config -->
-  <a href="https://eslint.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="ESLint" width="40" height="40"/>
-  </a>
-  <a href="https://prettier.io/" target="_blank" rel="noreferrer">
-    <img src="https://prettier.io/icon.png" alt="Prettier" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/prettier/eslint-config-prettier" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/25822731?s=200&v=4" alt="eslint-config-prettier" width="40" height="40"/>
-  </a>
-  <a href="https://typicode.github.io/husky/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/4060?s=200&v=4" alt="Husky" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/okonet/lint-staged" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/112214?s=200&v=4" alt="lint-staged" width="40" height="40"/>
-  </a>
-  <a href="https://editorconfig.org/" target="_blank" rel="noreferrer">
-    <img src="https://editorconfig.org/logo.png" alt="EditorConfig" width="40" height="40"/>
-  </a>
+  <a href="https://eslint.org/"><img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white" /></a>
+  <a href="https://prettier.io/"><img src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black" /></a>
+  <a href="https://typicode.github.io/husky/"><img src="https://img.shields.io/badge/Husky-000000?logo=git&logoColor=white" /></a>
+  <a href="https://github.com/okonet/lint-staged"><img src="https://img.shields.io/badge/Lint--staged-000000?logo=github&logoColor=white" /></a>
+  <a href="https://editorconfig.org/"><img src="https://img.shields.io/badge/EditorConfig-FEFEFE?logo=editorconfig&logoColor=black" /></a>
+
   <!-- CSS Architecture -->
-  <a href="http://getbem.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="BEM" width="40" height="40"/> BEM
-  </a>
+  <a href="http://getbem.com/"><img src="https://img.shields.io/badge/BEM-000000?logo=css3&logoColor=white" /></a>
+
   <!-- UI Libraries -->
-  <a href="https://swiperjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://swiperjs.com/images/swiper-logo.svg" alt="Swiper" width="40" height="40"/>
-  </a>
-  <a href="https://scrollrevealjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/12637703?s=200&v=4" alt="ScrollReveal" width="40" height="40"/>
-  </a>
-</div>
+  <a href="https://swiperjs.com/"><img src="https://img.shields.io/badge/Swiper-6332F6?logo=swiper&logoColor=white" /></a>
+  <a href="https://scrollrevealjs.org/"><img src="https://img.shields.io/badge/ScrollReveal-FF6F61?logo=javascript&logoColor=white" /></a>
 </p>
 
 
