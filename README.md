@@ -46,7 +46,7 @@
 </p>
 
 <h3 align="center">Tools: (Workflow & Utilities)</h3>
-<p align="center">
+<div align="center">
   <!-- IDE & Version Control (asosiy) -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
@@ -70,7 +70,7 @@
   <!-- UI Libraries -->
   <a href="https://swiperjs.com/" target="_blank" rel="noreferrer"><img src="https://swiperjs.com/images/swiper-logo.svg" alt="Swiper" width="40" height="40"/></a>
   <a href="https://scrollrevealjs.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/12637703?s=200&v=4" alt="ScrollReveal" width="40" height="40"/></a>
-</p>
+</div>
 
 ---
 
