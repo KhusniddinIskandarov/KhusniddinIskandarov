@@ -48,32 +48,10 @@
 <h3 align="center">Tools: (Workflow & Utilities)</h3>
 
 <p align="center">
-  <!-- IDE & Version Control -->
   <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white" /></a>
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" /></a>
-
-  <!-- Runtime & Package Management -->
   <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" /></a>
   <a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white" /></a>
-
-  <!-- Build Tools -->
-  <a href="https://webpack.js.org/"><img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black" /></a>
-  <a href="https://babeljs.io/"><img src="https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=black" /></a>
-  <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" /></a>
-
-  <!-- Linting & Config -->
-  <a href="https://eslint.org/"><img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white" /></a>
-  <a href="https://prettier.io/"><img src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black" /></a>
-  <a href="https://typicode.github.io/husky/"><img src="https://img.shields.io/badge/Husky-000000?logo=git&logoColor=white" /></a>
-  <a href="https://github.com/okonet/lint-staged"><img src="https://img.shields.io/badge/Lint--staged-000000?logo=github&logoColor=white" /></a>
-  <a href="https://editorconfig.org/"><img src="https://img.shields.io/badge/EditorConfig-FEFEFE?logo=editorconfig&logoColor=black" /></a>
-
-  <!-- CSS Architecture -->
-  <a href="http://getbem.com/"><img src="https://img.shields.io/badge/BEM-000000?logo=css3&logoColor=white" /></a>
-
-  <!-- UI Libraries -->
-  <a href="https://swiperjs.com/"><img src="https://img.shields.io/badge/Swiper-6332F6?logo=swiper&logoColor=white" /></a>
-  <a href="https://scrollrevealjs.org/"><img src="https://img.shields.io/badge/ScrollReveal-FF6F61?logo=javascript&logoColor=white" /></a>
 </p>
 
 
