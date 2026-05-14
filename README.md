@@ -12,6 +12,8 @@
 
 ## 🚀 Frontend Engineer delivering scalable, performant, and well-documented web applications with a focus on modular architecture, clean code, and reusable components.
 
+---
+
 ## 🧠 About Me  
 
 | 💻 Strong foundation in **HTML, CSS, JavaScript (ES6+)** | 🎨 Skilled in **TailwindCSS + modern UI styling** |
@@ -35,48 +37,36 @@
 ## 🛠️ Tech stack:
 <h3 align="center">Languages & Frameworks</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&gradient=red,orange"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&gradient=blue,cyan"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&gradient=yellow,orange"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&gradient=pink,purple"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&gradient=purple,indigo"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&gradient=cyan,blue"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&gradient=cyan,blue"/>
-  
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
 <h3 align="center">Tools: (Workflow & Utilities)</h3>
 <p align="center">
-   <!-- IDE & Version Control (asosiy) -->
   <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <!-- Runtime & Package Management -->
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white" />
-  <!-- Classic Build Tools (eski, foundational) -->
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black" />
   <img src="https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=black" />
-  <!-- Modern Build Tools (yangi) -->
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
-   <!-- Linting & Config -->
   <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white" />
   <img src="https://img.shields.io/badge/Prettier-F7B93E?logo=prettier&logoColor=black" />
-  <img src="https://img.shields.io/badge/eslint--config--prettier-000000?logo=eslint&logoColor=white"/>
-
   <img src="https://img.shields.io/badge/Husky-000000?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Lint--staged-000000?logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/EditorConfig-FEFEFE?logo=editorconfig&logoColor=black" />
-  <!-- CSS Architecture -->
   <img src="https://img.shields.io/badge/BEM-000000?logo=css3&logoColor=white" />
-   <!-- UI Libraries -->
   <img src="https://img.shields.io/badge/Swiper-6332F6?logo=swiper&logoColor=white" />
   <img src="https://img.shields.io/badge/ScrollReveal-FF6F61?logo=javascript&logoColor=white" />
 </p>
 
-
 ---
 
-<!-- GitHub Stats -->
 ## 📊 GitHub Stats  
 <p align="center">
   <a href="https://github.com/KhusniddinIskandarov">
@@ -85,15 +75,43 @@
   </a>
 </p>
 
-    
-<!-- Contribution Diagram -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhusniddinIskandarov&theme=dracula" alt="Khusniddin's Github Activity Graph">
-</p>
+---
 
-<!-- Closing statement -->
+## 📌 Pinned Projects
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Take+Care&height=100&section=footer"/>
+  <a href="https://github.com/KhusniddinIskandarov/test-2-showcase">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=KhusniddinIskandarov&repo=test-2-showcase&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/KhusniddinIskandarov/portfolio">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=KhusniddinIskandarov&repo=portfolio&theme=tokyonight" />
+  </a>
 </p>
 
 ---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KhusniddinIskandarov&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KhusniddinIskandarov&style=for-the-badge&color=blue" alt="Profile Views"/>
+</p>
+
+---
+
+## 📬 Connect with Me
+<p align="center">
+  <a href="mailto:kh.sh.iskandarov@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/khusniddiniskandarov"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://t.me/khusniddiniskandarov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p>
+
+---
+
+<!-- Contribution Diagram -->
+<p align="center">
+  <img src="https://github-readme-
