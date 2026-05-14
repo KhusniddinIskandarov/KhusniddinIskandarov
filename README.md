@@ -114,4 +114,8 @@
 
 <!-- Contribution Diagram -->
 <p align="center">
-  <img src="https://github-readme-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhusniddinIskandarov&theme=dracula" alt="Khusniddin's Github Activity Graph">
+</p>
+
+<!-- Closing statement -->
+<p align="center">
