@@ -28,7 +28,7 @@
 
 | 🌐 Connect | 🛠️ Featured Projects |
 |-----------|--------------------|
-| 🌎 [Portfolio](https://yourportfolio.com)<br> 💼 [LinkedIn](https://www.linkedin.com/in/khusniddiniskandarov)<br> 📷 [Instagram](https://www.instagram.com/khusniddiniskandarov)<br> 💬 [Telegram](https://t.me/khusniddiniskandarov)<br> 📧 [Email](mailto:kh.sh.iskandarov@gmail.com) | - 🔗 [🌱 Plants Website](https://khusniddn-plants-website.vercel.app)    ———>   📂    [Full Repo](https://github.com/KhusniddinIskandarov/plants-website)    ———>    📂    [showcase](https://github.com/KhusniddinIskandarov/test-2-showcase)<br>- 🔗 [Portfolio](https://github.com/yourusername/portfolio) — Built with **React & TailwindCSS**, responsive and modern design. |
+| 🌎 [Portfolio](https://yourportfolio.com)<br> 💼 [LinkedIn](https://www.linkedin.com/in/khusniddiniskandarov)<br> 📷 [Instagram](https://www.instagram.com/khusniddiniskandarov)<br> 💬 [Telegram](https://t.me/khusniddiniskandarov)<br> 📧 [Email](mailto:kh.sh.iskandarov@gmail.com) | - 🔗 [🌱 Plants Website](https://khusniddn-plants-website.vercel.app) ———> 📂 [Full Repo](https://github.com/KhusniddinIskandarov/plants-website) ———> 📂 [showcase](https://github.com/KhusniddinIskandarov/test-2-showcase)<br>- 🔗 [Portfolio](https://github.com/yourusername/portfolio) — Built with **React & TailwindCSS**, responsive and modern design. |
 
 ---
 
