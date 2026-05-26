@@ -28,7 +28,7 @@
 
 | 🌐 Connect | 🛠️ Featured Projects |
 |-----------|--------------------|
-| 🌎 [Portfolio](https://yourportfolio.com)<br> 💼 [LinkedIn](https://www.linkedin.com/in/khusniddiniskandarov)<br> 📷 [Instagram](https://www.instagram.com/khusniddiniskandarov)<br> 💬 [Telegram](https://t.me/khusniddiniskandarov)<br> 📧 [Email](mailto:kh.sh.iskandarov@gmail.com) | - 🔗 [🌱 Plants Website](https://khusniddn-plants-website.vercel.app) —> 📂 [Full Repositorie](https://github.com/KhusniddinIskandarov/plants-website) —> 📂 [showcase](https://github.com/KhusniddinIskandarov/plants-website-showcase) —> 📂 [Tags&Release](https://github.com/KhusniddinIskandarov/plants-website/tags) <br>- 🔗 [Portfolio](https://github.com/yourusername/portfolio) — Built with **React & TailwindCSS**, responsive and modern design. |
+| 🌎 [Portfolio](https://yourportfolio.com)<br> 💼 [LinkedIn](https://www.linkedin.com/in/khusniddiniskandarov)<br> 📷 [Instagram](https://www.instagram.com/khusniddiniskandarov)<br> 💬 [Telegram](https://t.me/khusniddiniskandarov)<br> 📧 [Email](mailto:kh.sh.iskandarov@gmail.com) | - 🔗 [🌱 Plants Website](https://khusniddn-plants-website.vercel.app) —> 📂 [Full Repositorie](https://github.com/KhusniddinIskandarov/plants-website) —> 📂 [showcase](https://github.com/KhusniddinIskandarov/plants-website-showcase) > 📂 [Tags&Release](https://github.com/KhusniddinIskandarov/plants-website/tags) <br>- 🔗 [Portfolio](https://github.com/yourusername/portfolio) — Built with **React & TailwindCSS**, responsive and modern design. |
 
 ---
 
