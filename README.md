@@ -86,17 +86,17 @@
 </p>
 
 ---
-    
-<!-- Contribution Diagram -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhusniddinIskandarov&theme=dracula" alt="Khusniddin's Github Activity Graph">
-</p>
-
----
 
 ## 👀 Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KhusniddinIskandarov&style=for-the-badge&color=blue" alt="Profile Views"/>
+</p>
+
+---
+    
+<!-- Contribution Diagram -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhusniddinIskandarov&theme=dracula" alt="Khusniddin's Github Activity Graph">
 </p>
 
 <!-- Closing statement -->
