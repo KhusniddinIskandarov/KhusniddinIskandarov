@@ -92,14 +92,16 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhusniddinIskandarov&theme=dracula" alt="Khusniddin's Github Activity Graph">
 </p>
 
-<!-- Closing statement -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Take+Care&height=100&section=footer"/>
-</p>
-
 ---
 
 ## 👀 Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KhusniddinIskandarov&style=for-the-badge&color=blue" alt="Profile Views"/>
 </p>
+
+<!-- Closing statement -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Take+Care&height=100&section=footer"/>
+</p>
+
+
