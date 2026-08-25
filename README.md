@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&gradient=purple,indigo"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&gradient=cyan,blue"/>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&gradient=cyan,blue"/>
-  
+
 </p>
 
 <h3 align="center">Tools: (Workflow & Utilities)</h3>
@@ -91,7 +91,7 @@
 </p>
 
 ---
-    
+
 <!-- Contribution Diagram -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KhusniddinIskandarov&theme=dracula" alt="Khusniddin's Github Activity Graph">
@@ -101,4 +101,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Take+Care&height=100&section=footer"/>
 </p>
-
